@@ -1,0 +1,572 @@
+,Compound Score,Negative Score,Neutral Score,Positive Score,Source Account,Tweet Date,Tweet Text
+0,0.5719,0.0,0.773,0.227,BBC Breaking News,Fri Sep 28 18:04:12 +0000 2018,Brett Kavanaugh's nomination to US Supreme Court backed by Senate committee as discussions continue over FBI inquiry https://t.co/KKe4X2DRQA
+1,0.34,0.0,0.902,0.098,BBC Breaking News,Fri Sep 28 17:44:43 +0000 2018,"Facebook says the security flaw has been fixed and it has informed police. In a statement it says ""we have yet to d… https://t.co/naGAXzvkxG"
+2,0.0,0.0,1.0,0.0,BBC Breaking News,Fri Sep 28 17:08:56 +0000 2018,"50 million Facebook accounts compromised, the social network says - in all, 90m accounts will have to take action https://t.co/GL3MyqXgHF"
+3,-0.296,0.128,0.872,0.0,BBC Breaking News,Fri Sep 28 15:55:27 +0000 2018,"Officers searching for missing Worcester student Thomas Jones, 18, find a body in the River Severn https://t.co/Zj8Ug65gr0"
+4,0.0,0.0,1.0,0.0,BBC Breaking News,Fri Sep 28 12:54:18 +0000 2018,Danish police seal off bridges and ferries to Sweden and Germany in a major operation https://t.co/uvVH4ANjHm
+5,-0.743,0.283,0.717,0.0,BBC Breaking News,Fri Sep 28 09:46:20 +0000 2018,"Pret a Manger’s allergy labelling was inadequate, says coroner in case of girl who died after eating a baguette https://t.co/93qasWccnJ"
+6,-0.5859,0.283,0.613,0.104,BBC Breaking News,Thu Sep 27 20:29:32 +0000 2018,Tesla chief executive Elon Musk accused of fraud by the US Securities and Exchange Commission https://t.co/Qf8jtsrv8G
+7,0.0352,0.144,0.706,0.15,BBC Breaking News,Thu Sep 27 19:18:04 +0000 2018,"""My family and my name have been totally and permanently destroyed"" - US Supreme Court nominee Brett Kavanaugh reac… https://t.co/bH7othXr2Q"
+8,0.0258,0.0,0.942,0.058,BBC Breaking News,Thu Sep 27 15:14:06 +0000 2018,"RT @BBCSport: The proposed £600m sale of Wembley Stadium has been unanimously backed by the Football Association's board.
+
+https://t.co/6sX…"
+9,-0.6395,0.199,0.801,0.0,BBC Breaking News,Thu Sep 27 14:40:05 +0000 2018,"""I am here today not because I want to be. I am terrified. I am here because I believe it is my civic duty to tell… https://t.co/1mIY5lYWdC"
+10,-0.7351,0.279,0.721,0.0,BBC Breaking News,Wed Sep 26 16:32:23 +0000 2018,The real identity of one of the Salisbury Novichock poisoning suspects is revealed by an investigative website https://t.co/5ySt719D3g
+11,0.0,0.0,1.0,0.0,BBC Breaking News,Wed Sep 26 14:55:12 +0000 2018,"China has been attempting to interfere in the mid-term elections in November, President Trump tells UN https://t.co/FkYVJlPMaW"
+12,-0.0258,0.111,0.783,0.106,BBC Breaking News,Wed Sep 26 13:08:57 +0000 2018,"Suspects in the 1974 Birmingham pub bombings will not be named at fresh inquests, the appeal court rules https://t.co/RqzM3HkGfz"
+13,-0.8271,0.312,0.688,0.0,BBC Breaking News,Tue Sep 25 18:13:58 +0000 2018,"""Sexually violent predator"" Bill Cosby given three to 10-year jail term for drugging and molesting a woman in 2004 https://t.co/vNPK6YmTfA"
+14,0.4215,0.0,0.877,0.123,BBC Breaking News,Tue Sep 25 14:50:14 +0000 2018,"""Stronger, safer, richer"": Donald Trump tells UN he has done more in under two years than almost any prior president https://t.co/coDul33Afk"
+15,0.0,0.0,1.0,0.0,BBC Breaking News,Mon Sep 24 17:24:24 +0000 2018,"Amid concerns about his job, Trump-Russia probe chief Rod Rosenstein has ""extended conversation"" with President Tru… https://t.co/IAXR7JSl1Y"
+16,0.0,0.0,1.0,0.0,BBC Breaking News,Mon Sep 24 15:11:09 +0000 2018,"Rod Rosenstein, the man overseeing Trump-Russia probe, en route to White House amid reports he will offer to quit https://t.co/3kxi0m3UId"
+17,0.8395,0.0,0.715,0.285,BBC Breaking News,Sat Sep 22 21:46:29 +0000 2018,"RT @BBCSport: Anthony Joshua wins! 🥊
+
+He’s won by knockout in round 7!
+
+AJ retains his heavyweight titles. 
+
+Live reaction https://t.co/e2u…"
+18,0.2263,0.0,0.899,0.101,BBC Breaking News,Sat Sep 22 20:09:28 +0000 2018,"Labour should be prepared to back demands for a new Brexit referendum, deputy leader Tom Watson has said. https://t.co/x9EOYEtffe"
+19,-0.0258,0.212,0.579,0.208,BBC Breaking News,Sat Sep 22 18:48:42 +0000 2018,The woman accusing Supreme Court nominee Brett Kavanaugh of sexual assault agrees to testify against him next week https://t.co/W5RTtIVAwN
+20,0.5719,0.0,0.773,0.227,BBC Breaking News,Fri Sep 28 18:04:12 +0000 2018,Brett Kavanaugh's nomination to US Supreme Court backed by Senate committee as discussions continue over FBI inquiry https://t.co/KKe4X2DRQA
+21,0.34,0.0,0.902,0.098,BBC Breaking News,Fri Sep 28 17:44:43 +0000 2018,"Facebook says the security flaw has been fixed and it has informed police. In a statement it says ""we have yet to d… https://t.co/naGAXzvkxG"
+22,0.0,0.0,1.0,0.0,BBC Breaking News,Fri Sep 28 17:08:56 +0000 2018,"50 million Facebook accounts compromised, the social network says - in all, 90m accounts will have to take action https://t.co/GL3MyqXgHF"
+23,-0.296,0.128,0.872,0.0,BBC Breaking News,Fri Sep 28 15:55:27 +0000 2018,"Officers searching for missing Worcester student Thomas Jones, 18, find a body in the River Severn https://t.co/Zj8Ug65gr0"
+24,0.0,0.0,1.0,0.0,BBC Breaking News,Fri Sep 28 12:54:18 +0000 2018,Danish police seal off bridges and ferries to Sweden and Germany in a major operation https://t.co/uvVH4ANjHm
+25,-0.743,0.283,0.717,0.0,BBC Breaking News,Fri Sep 28 09:46:20 +0000 2018,"Pret a Manger’s allergy labelling was inadequate, says coroner in case of girl who died after eating a baguette https://t.co/93qasWccnJ"
+26,-0.5859,0.283,0.613,0.104,BBC Breaking News,Thu Sep 27 20:29:32 +0000 2018,Tesla chief executive Elon Musk accused of fraud by the US Securities and Exchange Commission https://t.co/Qf8jtsrv8G
+27,0.0352,0.144,0.706,0.15,BBC Breaking News,Thu Sep 27 19:18:04 +0000 2018,"""My family and my name have been totally and permanently destroyed"" - US Supreme Court nominee Brett Kavanaugh reac… https://t.co/bH7othXr2Q"
+28,0.0258,0.0,0.942,0.058,BBC Breaking News,Thu Sep 27 15:14:06 +0000 2018,"RT @BBCSport: The proposed £600m sale of Wembley Stadium has been unanimously backed by the Football Association's board.
+
+https://t.co/6sX…"
+29,-0.6395,0.199,0.801,0.0,BBC Breaking News,Thu Sep 27 14:40:05 +0000 2018,"""I am here today not because I want to be. I am terrified. I am here because I believe it is my civic duty to tell… https://t.co/1mIY5lYWdC"
+30,-0.7351,0.279,0.721,0.0,BBC Breaking News,Wed Sep 26 16:32:23 +0000 2018,The real identity of one of the Salisbury Novichock poisoning suspects is revealed by an investigative website https://t.co/5ySt719D3g
+31,0.0,0.0,1.0,0.0,BBC Breaking News,Wed Sep 26 14:55:12 +0000 2018,"China has been attempting to interfere in the mid-term elections in November, President Trump tells UN https://t.co/FkYVJlPMaW"
+32,-0.0258,0.111,0.783,0.106,BBC Breaking News,Wed Sep 26 13:08:57 +0000 2018,"Suspects in the 1974 Birmingham pub bombings will not be named at fresh inquests, the appeal court rules https://t.co/RqzM3HkGfz"
+33,-0.8271,0.312,0.688,0.0,BBC Breaking News,Tue Sep 25 18:13:58 +0000 2018,"""Sexually violent predator"" Bill Cosby given three to 10-year jail term for drugging and molesting a woman in 2004 https://t.co/vNPK6YmTfA"
+34,0.4215,0.0,0.877,0.123,BBC Breaking News,Tue Sep 25 14:50:14 +0000 2018,"""Stronger, safer, richer"": Donald Trump tells UN he has done more in under two years than almost any prior president https://t.co/coDul33Afk"
+35,0.0,0.0,1.0,0.0,BBC Breaking News,Mon Sep 24 17:24:24 +0000 2018,"Amid concerns about his job, Trump-Russia probe chief Rod Rosenstein has ""extended conversation"" with President Tru… https://t.co/IAXR7JSl1Y"
+36,0.0,0.0,1.0,0.0,BBC Breaking News,Mon Sep 24 15:11:09 +0000 2018,"Rod Rosenstein, the man overseeing Trump-Russia probe, en route to White House amid reports he will offer to quit https://t.co/3kxi0m3UId"
+37,0.8395,0.0,0.715,0.285,BBC Breaking News,Sat Sep 22 21:46:29 +0000 2018,"RT @BBCSport: Anthony Joshua wins! 🥊
+
+He’s won by knockout in round 7!
+
+AJ retains his heavyweight titles. 
+
+Live reaction https://t.co/e2u…"
+38,0.2263,0.0,0.899,0.101,BBC Breaking News,Sat Sep 22 20:09:28 +0000 2018,"Labour should be prepared to back demands for a new Brexit referendum, deputy leader Tom Watson has said. https://t.co/x9EOYEtffe"
+39,-0.0258,0.212,0.579,0.208,BBC Breaking News,Sat Sep 22 18:48:42 +0000 2018,The woman accusing Supreme Court nominee Brett Kavanaugh of sexual assault agrees to testify against him next week https://t.co/W5RTtIVAwN
+40,0.25,0.139,0.67,0.191,BBC Breaking News,Sat Sep 22 18:23:52 +0000 2018,US cable giant wins rare blind auction process set by the UK's Takeover Panel. https://t.co/Lc0sggm0FL
+41,-0.5574,0.217,0.783,0.0,BBC Breaking News,Sat Sep 22 12:20:02 +0000 2018,Chas Hodges - one half of the musical duo Chas &amp; Dave - has died https://t.co/sLok83mgNk
+42,0.128,0.092,0.797,0.112,BBC Breaking News,Sat Sep 22 11:10:39 +0000 2018,"Man rescued from air pocket in sunken Lake Victoria ferry, two days after it capsized with loss of around 170 lives https://t.co/l5rG7Bsa58"
+43,-0.875,0.385,0.615,0.0,BBC Breaking News,Sat Sep 22 06:19:09 +0000 2018,"Several people killed in gun attack during Iranian military parade in south-west city of Ahvaz, state media says https://t.co/OweQk7y5Qp"
+44,0.6542,0.0,0.789,0.211,BBC Breaking News,Fri Sep 21 13:17:13 +0000 2018,"""No-one wants a good deal more than me, but the EU should be clear I will not overturn the result of the referendum… https://t.co/xGM9JxrjiN"
+45,-0.5106,0.142,0.858,0.0,BBC Breaking News,Fri Sep 21 13:14:06 +0000 2018,"UK PM Theresa May demands new proposals from EU to break Brexit ""impasse"" after Chequers plan rejected by EU leaders https://t.co/4IzVJBIco0"
+46,0.0,0.0,1.0,0.0,BBC Breaking News,Fri Sep 21 12:02:41 +0000 2018,"UK PM Theresa May to make statement in Downing Street on state of #Brexit negotiations at 13:45 BST
+
+https://t.co/SUQnGZEPKZ"
+47,-0.3818,0.148,0.852,0.0,BBC Breaking News,Fri Sep 21 07:52:13 +0000 2018,"At least 86 bodies are found after a Tanzanian ferry overturns in Lake Victoria, officials say https://t.co/Pcy3ObgGin"
+48,0.0,0.0,1.0,0.0,BBC Breaking News,Thu Sep 20 16:10:35 +0000 2018,Multiple deaths and injuries after a shooting at a pharmacy distribution centre in Maryland - US police https://t.co/38OudkxJja
+49,-0.4404,0.127,0.873,0.0,BBC Breaking News,Thu Sep 20 14:13:40 +0000 2018,"After criticism of her Chequers plan by EU leaders, Theresa May stands by her #Brexit proposals as ""the only seriou… https://t.co/jAq6ulD1iY"
+50,0.3612,0.0,0.878,0.122,BBC Breaking News,Thu Sep 20 13:36:45 +0000 2018,"European Council President Donald Tusk says EU leaders agree Theresa May's Chequers plan for #Brexit ""will not work… https://t.co/9Mc9yWQLUJ"
+51,0.0,0.0,1.0,0.0,BBC Breaking News,Thu Sep 20 12:59:39 +0000 2018,"RT @BBCSport: The suspension of Russia's anti-doping agency (Rusada) has been lifted despite widespread opposition.
+
+Full story: https://t.…"
+52,0.0772,0.0,0.909,0.091,BBC Breaking News,Wed Sep 19 10:21:14 +0000 2018,Pakistan court orders release of ex-PM Nawaz Sharif and suspends his jail sentence https://t.co/3LqxVQ6F51
+53,-0.3612,0.122,0.878,0.0,BBC Breaking News,Wed Sep 19 09:36:38 +0000 2018,"Woman dies after caravan blown off cliff in Galway, Ireland as Storm Ali brings disruption to British Isles https://t.co/wubY4511gO"
+54,0.0,0.0,1.0,0.0,BBC Breaking News,Wed Sep 19 08:33:35 +0000 2018,"UK inflation rate for August unexpectedly rises to 2.7%, highest in six months https://t.co/GmqT0MuLhi"
+55,0.5423,0.0,0.769,0.231,BBC Breaking News,Wed Sep 19 02:59:21 +0000 2018,"Moon and Kim hail new future for North and South Korea, signing wide-ranging agreement in Pyongyang https://t.co/QNzHH5gdDP"
+56,-0.5859,0.22,0.78,0.0,BBC Breaking News,Tue Sep 18 16:12:26 +0000 2018,Germany's spy chief forced out of job over his controversial response to reports of far-right unrest in Chemnitz https://t.co/NUAvqHojSE
+57,-0.2023,0.083,0.917,0.0,BBC Breaking News,Tue Sep 18 13:13:51 +0000 2018,"RT @BBCSport: Ben Stokes and Alex Hales have been charged with bringing the game into disrepute by the ECB.
+
+https://t.co/1mH5geVa1O https:…"
+58,-0.5267,0.202,0.725,0.073,BBC Breaking News,Mon Sep 17 22:41:12 +0000 2018,The US is imposing new tariffs on $200bn (£150bn) worth of Chinese goods as it escalates its trade war with Beijing https://t.co/CjuxgjX23d
+59,-0.5574,0.167,0.833,0.0,BBC Breaking News,Mon Sep 17 18:11:18 +0000 2018,Thai cave rescuer Vernon Unsworth sues Elon Musk over his repeated claims the British diver is child abuser https://t.co/wJeixByjo9
+60,0.0772,0.086,0.813,0.1,BBC Breaking News,Mon Sep 17 16:42:17 +0000 2018,Russia and Turkey to create buffer zone in Syria's northern Idlib province to separate Syrian forces and rebels https://t.co/1xjM2afBPr
+61,-0.0516,0.156,0.697,0.148,BBC Breaking News,Mon Sep 17 14:42:34 +0000 2018,"US Supreme Court nominee Brett Kavanaugh says sexual assault claim against him is ""completely false"" in first comme… https://t.co/MPyA5T4jiH"
+62,0.1027,0.086,0.802,0.111,BBC Breaking News,Mon Sep 17 09:18:01 +0000 2018,"International Monetary Fund warns no-deal #Brexit would inflict ""substantial costs"" on the UK economy https://t.co/qBkhE3584i"
+63,0.0,0.0,1.0,0.0,BBC Breaking News,Sun Sep 16 19:30:19 +0000 2018,"Police have sealed off the Prezzo restaurant in High Street, Salisbury, following a 'medical incident' involving a man and a woman"
+64,0.0516,0.162,0.667,0.171,BBC Breaking News,Sun Sep 16 19:24:39 +0000 2018,Correction: Christine Blasey Ford reveals she was teenager allegedly assaulted by Supreme Court nominee Kavanaugh https://t.co/NMZLm0Ro4C
+65,0.0,0.0,1.0,0.0,BBC Breaking News,Sun Sep 16 09:31:11 +0000 2018,"RT @BBCSport: Kenya's Eliud Kipchoge has set a new marathon world record in Berlin.
+
+https://t.co/D9EEUxebgM https://t.co/mb8oigT6FB"
+66,-0.6486,0.17,0.83,0.0,BBC Breaking News,Sat Sep 15 01:32:56 +0000 2018,"At least five dead as Florence mauls US East Coast
+
+·Winds of up to 70mph (110km/h) expected for several days
+·Almo… https://t.co/dAXPvHdCAW"
+67,-0.6705,0.209,0.791,0.0,BBC Breaking News,Fri Sep 14 21:00:56 +0000 2018,"Hurricane Florence downgraded to tropical storm
+ 
+• Four people killed as storm batters US East Coast
+• 600,000 hom… https://t.co/EWslcjopvp"
+68,-0.6887,0.325,0.608,0.066,BBC Breaking News,Fri Sep 14 18:28:18 +0000 2018,"Typhoon Mangkhut reaches northern Philippines with officials warning of possible ""very heavy damage"" https://t.co/ez3FCfWNV1"
+69,0.2023,0.0,0.886,0.114,BBC Breaking News,Fri Sep 14 15:41:17 +0000 2018,"Trump's former campaign manager Paul Manafort agrees to co-operate with Mueller probe, prosecutor says https://t.co/o8VmfnfWtx"
+70,0.0,0.0,1.0,0.0,BBC Breaking News,Fri Sep 14 11:48:34 +0000 2018,"#HurricaneFlorence latest
+
+• Centre of hurricane eye makes landfall
+• More than 300,000 people without power 
+• Eva… https://t.co/hxwsLoRxka"
+71,0.0,0.0,1.0,0.0,BBC Breaking News,Fri Sep 14 10:05:23 +0000 2018,"#HurricaneFlorence makes landfall on east coast of US
+
+Follow our live updates https://t.co/DEangW2yzK https://t.co/yy1qY9b4ui"
+72,-0.7351,0.279,0.721,0.0,BBC Breaking News,Thu Sep 13 10:26:24 +0000 2018,Suspects in poisoning of ex-Russian spy Sergei Skripal tell state-sponsored TV network RT they visited Salisbury as… https://t.co/wJsPNLoMCp
+73,-0.7351,0.267,0.733,0.0,BBC Breaking News,Thu Sep 13 10:13:52 +0000 2018,Two men named as suspects in poisoning of Russian ex-spy claim they were merely tourists to Salisbury Cathedral https://t.co/PFXBDyJrkf
+74,-0.8442,0.336,0.664,0.0,BBC Breaking News,Wed Sep 12 15:02:35 +0000 2018,"British couple who died at Egyptian hotel were killed by E. coli, the country's general prosecutor says https://t.co/PqSvcJ75N8"
+75,-0.2556,0.161,0.721,0.118,BBC Breaking News,Wed Sep 12 07:06:33 +0000 2018,"""Nothing criminal"" about men named by UK over poisoning of ex-Russian spy Sergei Skripal and daughter, Putin says https://t.co/UjoGhhCn3G"
+76,0.658,0.0,0.846,0.154,BBC Breaking News,Tue Sep 11 16:30:50 +0000 2018,"RT @bbctms: WICKET!
+There it is! Anderson cleans up Shami, bowled for 0. England win the match and Jimmy Anderson takes his 564th Test wick…"
+77,0.5267,0.0,0.871,0.129,BBC Breaking News,Tue Sep 11 09:21:43 +0000 2018,"RT @BBCSport: Uefa plans to introduce a third European club competition alongside the Champions League and Europa League from 2021.
+
+👉 http…"
+78,-0.4404,0.172,0.828,0.0,BBC Breaking News,Tue Sep 11 08:35:00 +0000 2018,"UK unemployment fell by 55,000 in the three months to July, ONS figures say https://t.co/XYEvJ6AbkM"
+79,0.0,0.0,1.0,0.0,BBC Breaking News,Mon Sep 10 14:09:41 +0000 2018,England's leading Test run scorer Alastair Cook dismissed for 147 in his last ever innings for his country… https://t.co/XCWX52LxXE
+80,-0.3707,0.096,0.904,0.0,BBC Breaking News,Mon Sep 10 11:45:36 +0000 2018,"RT @bbctms: THERE IT IS!
+What a moment for Alastair Cook on his last-ever Test innings he brings up his hundred! Not sure he'd have expecte…"
+81,0.6249,0.0,0.718,0.282,BBC Breaking News,Sun Sep 09 18:09:57 +0000 2018,"Sweden's far right makes gains in election as establishment parties deadlocked, exit polls predict https://t.co/GXIMNX2uTb"
+82,-0.8555,0.42,0.58,0.0,BBC Breaking News,Sun Sep 09 17:03:42 +0000 2018,"28-year-old woman charged with attempted murder after man stabbed on Saturday in Barnsley, South Yorkshire https://t.co/IQTo0Ap8cW"
+83,0.8402,0.083,0.577,0.34,BBC Breaking News,Sat Sep 08 21:47:17 +0000 2018,Naomi Osaka beats Serena Williams 6-2 6-4 to win US Open - the first Japanese player to win Grand Slam singles title https://t.co/y9hsSHkKZy
+84,-0.9231,0.47,0.53,0.0,BBC Breaking News,Sat Sep 08 17:02:27 +0000 2018,"Woman, 28, arrested after man stabbed in Barnsley, South Yorkshire is being held on suspicion of attempted murder https://t.co/iWCXSe2gLM"
+85,-0.7184,0.24,0.76,0.0,BBC Breaking News,Sat Sep 08 09:38:43 +0000 2018,"One person arrested after reports man had been stabbed in Barnsley town centre, as police investigate if it was an… https://t.co/oyYQpXLyph"
+86,-0.0772,0.098,0.902,0.0,BBC Breaking News,Sat Sep 08 09:10:30 +0000 2018,"Police responding to ""serious incident"" in Barnsley, South Yorkshire, the force says https://t.co/hIXI30hWJ9"
+87,-0.6486,0.185,0.815,0.0,BBC Breaking News,Fri Sep 07 21:28:58 +0000 2018,"US rapper Mac Miller found dead at his Los Angeles home aged 26 after apparent overdose, US media report https://t.co/ytKhUKCXkC"
+88,-0.765,0.28,0.72,0.0,BBC Breaking News,Fri Sep 07 20:45:14 +0000 2018,Former Donald Trump aide George Papadopoulos jailed for 14 days for lying to the FBI in Russia investigation https://t.co/SIBVvJz398
+89,-0.7871,0.427,0.433,0.14,BBC Breaking News,Fri Sep 07 07:00:15 +0000 2018,"BA boss ""extremely sorry"" after some customers' data stolen in ""very sophisticated criminal attack"" on website https://t.co/PGrIfzJlnG"
+90,-0.8225,0.388,0.612,0.0,BBC Breaking News,Thu Sep 06 20:55:50 +0000 2018,Twitter permanently bans US conspiracy theorist Alex Jones and Infowars for abusive behaviour https://t.co/6hp5VIIf7F
+91,0.4019,0.0,0.847,0.153,BBC Breaking News,Thu Sep 06 19:28:33 +0000 2018,"Obituary: Burt Reynolds - full of charm &amp; swagger, he became one of Hollywood's best-known stars… https://t.co/FNVMKFPafC"
+92,0.0,0.0,1.0,0.0,BBC Breaking News,Thu Sep 06 19:06:08 +0000 2018,"Burt Reynolds dies, aged 82 - he starred in a string of hits in the 1970s, including Smokey and the Bandit &amp; Delive… https://t.co/eeqUAl3qVP"
+93,-0.2732,0.13,0.87,0.0,BBC Breaking News,Thu Sep 06 17:00:22 +0000 2018,A planned tax cut for 2.7m self-employed workers has been scrapped by the UK government https://t.co/v9Mbp69qsd
+94,0.3245,0.159,0.543,0.298,BBC Breaking News,Thu Sep 06 15:10:53 +0000 2018,"US, France, Germany and Canada agree with UK that Russian government ""almost certainly"" approved Salisbury poisoning https://t.co/zEJwB5R0mT"
+95,-0.5574,0.217,0.783,0.0,BBC Breaking News,Thu Sep 06 10:35:28 +0000 2018,"Cranberries singer Dolores O'Riordan died by drowning due to alcohol intoxication, inquest told https://t.co/CdevEV5EYs"
+96,-0.128,0.249,0.524,0.227,BBC Breaking News,Thu Sep 06 06:28:06 +0000 2018,Gay sex is no longer a crime in India after a historic verdict by the Supreme Court https://t.co/GnrdzPPSuF
+97,-0.7351,0.279,0.721,0.0,BBC Breaking News,Wed Sep 05 12:11:06 +0000 2018,"""This was not a rogue operation""
+
+UK PM Theresa May says suspects in Salisbury poisoning investigation were Russian… https://t.co/MbTg37F5H6"
+98,-0.34,0.233,0.636,0.131,BBC Breaking News,Wed Sep 05 12:05:07 +0000 2018,"Two Salisbury attack suspects are believed to be Russian military intelligence officers, UK PM Theresa May says https://t.co/cC5Plpg7J4"
+99,-0.4767,0.154,0.846,0.0,BBC Breaking News,Wed Sep 05 10:09:08 +0000 2018,"UK police name two Russian nationals saying there is ""sufficient evidence"" to charge them over Salisbury attack https://t.co/SXGLXtBgPY"
+0,0.296,0.149,0.585,0.266,Fox News,Fri Sep 28 21:30:29 +0000 2018,"Kavanaugh friend Mark Judge agrees to cooperate with @FBI probe, denies latest allegations https://t.co/7DGISHByWf"
+1,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 21:20:10 +0000 2018,".@POTUS on Friday ordered the @FBI to conduct a ""supplemental"" investigation into the allegations of sexual assault… https://t.co/kGI0cg5Vj0"
+2,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 21:08:09 +0000 2018,BREAKING: @POTUS orders ‘supplemental’ @FBI investigation into Kavanaugh https://t.co/Ms2j0jiiKb
+3,-0.2263,0.137,0.863,0.0,Fox News,Fri Sep 28 20:47:58 +0000 2018,Senate Republicans ask for limited FBI investigation of Kavanaugh before floor vote https://t.co/HO6DZ2Fva1
+4,-0.7506,0.33,0.67,0.0,Fox News,Fri Sep 28 20:36:16 +0000 2018,".@LindseyGrahamSC on if Senators are mad at @JeffFlake: ""you're mad at him, that's unreasonable.""… https://t.co/a761Oj6Zem"
+5,0.5413,0.0,0.845,0.155,Fox News,Fri Sep 28 20:31:16 +0000 2018,"FULL REMARKS: Sen. @LindseyGrahamSC on Judge Kavanaugh: ""I know all I need to know. I'm very confident in this man:… https://t.co/wRIBm5Ni8M"
+6,0.6908,0.0,0.749,0.251,Fox News,Fri Sep 28 20:30:19 +0000 2018,".@LindseyGrahamSC on Kavanaugh nomination: ""I feel like The White House will honor the request of the committee to… https://t.co/Tnv0MouekY"
+7,0.4019,0.0,0.863,0.137,Fox News,Fri Sep 28 20:25:21 +0000 2018,".@LindseyGrahamSC on Kavanaugh nomination: ""Hopefully in the next few days the FBI will answer questions that linge… https://t.co/fEsYVzuqWQ"
+8,0.25,0.0,0.895,0.105,Fox News,Fri Sep 28 20:23:11 +0000 2018,Senators deliver remarks on the Senate floor after the Senate Judiciary Committee endorsed Judge Brett Kavanaugh in… https://t.co/WLZkKMtRio
+9,0.25,0.0,0.882,0.118,Fox News,Fri Sep 28 20:21:40 +0000 2018,Senator @LindseyGrahamSC speaks to reporters after the Senate Judiciary Committee endorsed Judge Brett Kavanaugh in… https://t.co/qQWMttIrrp
+10,-0.7959,0.366,0.634,0.0,Fox News,Fri Sep 28 20:16:00 +0000 2018,'Look at Me When I'm Talking to You!': Sexual Assault Victims Confront Flake Before Kavanaugh Vote https://t.co/XktYNE1VZC
+11,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 20:11:22 +0000 2018,Trace Gallagher is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/yzDIRM8nlH
+12,-0.3182,0.223,0.777,0.0,Fox News,Fri Sep 28 20:10:58 +0000 2018,OPINION: Kavanaugh hearing echoes Clarence Thomas-Anita Hill confrontation https://t.co/pNVwvORMGD
+13,0.6908,0.0,0.749,0.251,Fox News,Fri Sep 28 20:08:37 +0000 2018,Senate GOP leaders have agreed to seek an additional FBI investigation into Supreme Court nominee Brett Kavanaugh b… https://t.co/m0NOjt0APT
+14,0.3612,0.0,0.872,0.128,Fox News,Fri Sep 28 20:02:39 +0000 2018,BREAKING: Senate GOP leaders agree to seek an additional FBI background investigation into Brett Kavanaugh before a… https://t.co/hd431cb9sp
+15,0.5574,0.0,0.816,0.184,Fox News,Fri Sep 28 20:00:02 +0000 2018,"In her weekly press conference, House Minority Leader @NancyPelosi called out Supreme Court nominee Brett Kavanaugh… https://t.co/KHUs5Eq97m"
+16,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 19:57:54 +0000 2018,Fox News Beats CNN and MSNBC Combined in Kavanaugh Hearing Viewers https://t.co/g7yGqFD1jR
+17,0.6249,0.0,0.788,0.212,Fox News,Fri Sep 28 19:53:00 +0000 2018,"Sen. @LindseyGrahamSC said he’s been doing “this legal stuff most of [his] life,” and went on to praise Judge Brett… https://t.co/Tf3n3trGfO"
+18,0.0258,0.0,0.942,0.058,Fox News,Fri Sep 28 19:45:39 +0000 2018,".@SenJoniErnst on allegations against Kavanaugh: ""I do know that Dr. Ford wanted to keep this a private matter and… https://t.co/KkH4HEkmKu"
+19,0.4404,0.0,0.861,0.139,Fox News,Fri Sep 28 19:44:46 +0000 2018,".@SenJoniErnst: ""[Judge Kavanaugh] has truly been put through the ringer this last week, and I feel for the family.… https://t.co/cbq5FHfMwP"
+20,0.296,0.149,0.585,0.266,Fox News,Fri Sep 28 21:30:29 +0000 2018,"Kavanaugh friend Mark Judge agrees to cooperate with @FBI probe, denies latest allegations https://t.co/7DGISHByWf"
+21,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 21:20:10 +0000 2018,".@POTUS on Friday ordered the @FBI to conduct a ""supplemental"" investigation into the allegations of sexual assault… https://t.co/kGI0cg5Vj0"
+22,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 21:08:09 +0000 2018,BREAKING: @POTUS orders ‘supplemental’ @FBI investigation into Kavanaugh https://t.co/Ms2j0jiiKb
+23,-0.2263,0.137,0.863,0.0,Fox News,Fri Sep 28 20:47:58 +0000 2018,Senate Republicans ask for limited FBI investigation of Kavanaugh before floor vote https://t.co/HO6DZ2Fva1
+24,-0.7506,0.33,0.67,0.0,Fox News,Fri Sep 28 20:36:16 +0000 2018,".@LindseyGrahamSC on if Senators are mad at @JeffFlake: ""you're mad at him, that's unreasonable.""… https://t.co/a761Oj6Zem"
+25,0.5413,0.0,0.845,0.155,Fox News,Fri Sep 28 20:31:16 +0000 2018,"FULL REMARKS: Sen. @LindseyGrahamSC on Judge Kavanaugh: ""I know all I need to know. I'm very confident in this man:… https://t.co/wRIBm5Ni8M"
+26,0.6908,0.0,0.749,0.251,Fox News,Fri Sep 28 20:30:19 +0000 2018,".@LindseyGrahamSC on Kavanaugh nomination: ""I feel like The White House will honor the request of the committee to… https://t.co/Tnv0MouekY"
+27,0.4019,0.0,0.863,0.137,Fox News,Fri Sep 28 20:25:21 +0000 2018,".@LindseyGrahamSC on Kavanaugh nomination: ""Hopefully in the next few days the FBI will answer questions that linge… https://t.co/fEsYVzuqWQ"
+28,0.25,0.0,0.895,0.105,Fox News,Fri Sep 28 20:23:11 +0000 2018,Senators deliver remarks on the Senate floor after the Senate Judiciary Committee endorsed Judge Brett Kavanaugh in… https://t.co/WLZkKMtRio
+29,0.25,0.0,0.882,0.118,Fox News,Fri Sep 28 20:21:40 +0000 2018,Senator @LindseyGrahamSC speaks to reporters after the Senate Judiciary Committee endorsed Judge Brett Kavanaugh in… https://t.co/qQWMttIrrp
+30,-0.7959,0.366,0.634,0.0,Fox News,Fri Sep 28 20:16:00 +0000 2018,'Look at Me When I'm Talking to You!': Sexual Assault Victims Confront Flake Before Kavanaugh Vote https://t.co/XktYNE1VZC
+31,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 20:11:22 +0000 2018,Trace Gallagher is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/yzDIRM8nlH
+32,-0.3182,0.223,0.777,0.0,Fox News,Fri Sep 28 20:10:58 +0000 2018,OPINION: Kavanaugh hearing echoes Clarence Thomas-Anita Hill confrontation https://t.co/pNVwvORMGD
+33,0.6908,0.0,0.749,0.251,Fox News,Fri Sep 28 20:08:37 +0000 2018,Senate GOP leaders have agreed to seek an additional FBI investigation into Supreme Court nominee Brett Kavanaugh b… https://t.co/m0NOjt0APT
+34,0.3612,0.0,0.872,0.128,Fox News,Fri Sep 28 20:02:39 +0000 2018,BREAKING: Senate GOP leaders agree to seek an additional FBI background investigation into Brett Kavanaugh before a… https://t.co/hd431cb9sp
+35,0.5574,0.0,0.816,0.184,Fox News,Fri Sep 28 20:00:02 +0000 2018,"In her weekly press conference, House Minority Leader @NancyPelosi called out Supreme Court nominee Brett Kavanaugh… https://t.co/KHUs5Eq97m"
+36,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 19:57:54 +0000 2018,Fox News Beats CNN and MSNBC Combined in Kavanaugh Hearing Viewers https://t.co/g7yGqFD1jR
+37,0.6249,0.0,0.788,0.212,Fox News,Fri Sep 28 19:53:00 +0000 2018,"Sen. @LindseyGrahamSC said he’s been doing “this legal stuff most of [his] life,” and went on to praise Judge Brett… https://t.co/Tf3n3trGfO"
+38,0.0258,0.0,0.942,0.058,Fox News,Fri Sep 28 19:45:39 +0000 2018,".@SenJoniErnst on allegations against Kavanaugh: ""I do know that Dr. Ford wanted to keep this a private matter and… https://t.co/KkH4HEkmKu"
+39,0.4404,0.0,0.861,0.139,Fox News,Fri Sep 28 19:44:46 +0000 2018,".@SenJoniErnst: ""[Judge Kavanaugh] has truly been put through the ringer this last week, and I feel for the family.… https://t.co/cbq5FHfMwP"
+40,0.4404,0.0,0.861,0.139,Fox News,Fri Sep 28 19:32:26 +0000 2018,"@SenJoniErnst: ""[Judge Kavanaugh] has truly been put through the ringer this last week, and I feel for the family.""… https://t.co/pFK9Xiy7uX"
+41,0.25,0.0,0.895,0.105,Fox News,Fri Sep 28 19:31:52 +0000 2018,Senators deliver remarks on the Senate floor after the Senate Judiciary Committee endorsed Judge Brett Kavanaugh in… https://t.co/12rBCrqOKp
+42,0.0258,0.0,0.945,0.055,Fox News,Fri Sep 28 19:23:09 +0000 2018,"@SenJoniErnst on allegations against Kavanaugh: ""I do know that Dr. Ford wanted to keep this a private matter and u… https://t.co/nJL6xPtaP7"
+43,0.3612,0.0,0.865,0.135,Fox News,Fri Sep 28 19:14:42 +0000 2018,"During a meeting with the Chilean President, @POTUS discussed the Senate Judiciary Committee's vote to recommend Br… https://t.co/5bwCTj9ut6"
+44,0.7269,0.0,0.747,0.253,Fox News,Fri Sep 28 19:11:43 +0000 2018,"Sen. @JeffFlake voted to recommend Brett Kavanaugh for the Supreme Court Friday, with the caveat that the @FBI inve… https://t.co/myZP86RQse"
+45,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 19:02:10 +0000 2018,".@ChrisCoons: ""My Republican colleagues...accused Democrats of simply trying to hold this open past the election. T… https://t.co/aEfZvTeMKO"
+46,0.25,0.0,0.895,0.105,Fox News,Fri Sep 28 19:02:09 +0000 2018,Senators deliver remarks on the Senate floor after the Senate Judiciary Committee endorsed Judge Brett Kavanaugh in… https://t.co/9VeS5UShEB
+47,-0.6124,0.238,0.762,0.0,Fox News,Fri Sep 28 18:46:40 +0000 2018,".@ChrisCoons: ""I think yesterday's very long hearing was a difficult day for Dr. Ford, a difficult for Judge Kavana… https://t.co/LzMG6UWZdZ"
+48,0.5574,0.0,0.816,0.184,Fox News,Fri Sep 28 18:32:20 +0000 2018,".@POTUS on possibility of re-opening background investigation on Supreme Court nominee Brett Kavanaugh: ""I will be… https://t.co/lqwQNYjR9m"
+49,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 18:25:26 +0000 2018,"Reporter: ""Have you thought at all about a replacement for Judge Kavanaugh?""
+
+@POTUS: ""Not even a little bit.""… https://t.co/o8VAORf5gH"
+50,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 18:18:20 +0000 2018,Senators speak after Senate Judiciary Committee meeting adjourns. https://t.co/6fiSRohGYx
+51,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 18:08:12 +0000 2018,Senators give statements after Senate Judiciary meeting has been adjourned. https://t.co/Zoo30akunq
+52,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 17:57:25 +0000 2018,.@ChuckGrassley: “The nominee will be reported to the floor.” https://t.co/FVPyEJhAJf https://t.co/ZDuQpu2GeP
+53,-0.1655,0.064,0.936,0.0,Fox News,Fri Sep 28 17:53:30 +0000 2018,".@JeffFlake: “I think it would be proper to delay the floor vote for up to but not more than one week, in order to… https://t.co/2DbYjQrFpo"
+54,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 17:33:34 +0000 2018,"House Republicans vote to release Russia probe transcripts, plan subpoena for Fusion GPS co-founder https://t.co/wtP0ad8zmC"
+55,0.5574,0.0,0.769,0.231,Fox News,Fri Sep 28 17:29:30 +0000 2018,SOON: Senate Judiciary Committee to Vote on Kavanaugh's Supreme Court Nomination https://t.co/FVPyEJhAJf https://t.co/CCrFpn4GCd
+56,0.5574,0.0,0.825,0.175,Fox News,Fri Sep 28 17:27:55 +0000 2018,Senate Judiciary Committee meets to vote on the nomination of Judge Brett Kavanaugh to the Supreme Court.… https://t.co/STmgGOpwEf
+57,0.2023,0.107,0.733,0.16,Fox News,Fri Sep 28 17:07:26 +0000 2018,JUST IN: Facebook says 50 million user accounts affected by security breach https://t.co/poBFHKN8PU
+58,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 17:04:29 +0000 2018,'This Is About Smears': @SenTedCruz Says Kavanaugh Confirmation Has Become 'a Partisan Circus' https://t.co/XTAxAnEe0P
+59,-0.4404,0.139,0.861,0.0,Fox News,Fri Sep 28 16:57:44 +0000 2018,".@SenJohnKennedy: “This has been an intergalactic freak show. As far as I'm concerned, Congress has hit rock bottom… https://t.co/Ivq7i26mrj"
+60,0.3412,0.0,0.888,0.112,Fox News,Fri Sep 28 16:53:12 +0000 2018,".@CoryBooker: “We should not brush aside her comments, we should not belittle her testimony. We should listen to he… https://t.co/VGkN48hBPy"
+61,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 16:49:23 +0000 2018,".@CoryBooker: “This is not a partisan moment, this is a moral moment in our nation. We do not have to have this vot… https://t.co/cj36kHqj8w"
+62,0.2263,0.126,0.629,0.245,Fox News,Fri Sep 28 16:38:53 +0000 2018,Dem Senator: Kavanaugh's Calendar 'May Be Powerful Evidence' Backing Up Ford's Accusation https://t.co/DhXk2HqHR0
+63,0.4466,0.0,0.816,0.184,Fox News,Fri Sep 28 16:37:32 +0000 2018,"RT @FoxBusiness: RECALL ALERT: Honda recalling more than 200,000 cars in the U.S. https://t.co/1QJWSm5hG3"
+64,0.765,0.048,0.68,0.272,Fox News,Fri Sep 28 16:35:45 +0000 2018,".@CoryBooker: “When we swear an oath to liberty and justice for all, I don’t think we’re there yet as a country.”… https://t.co/GMMUx3cEy6"
+65,0.4588,0.0,0.857,0.143,Fox News,Fri Sep 28 16:31:18 +0000 2018,.@CoryBooker: “The goodness and the decency of Republicans and Democrats in this country is self-evident and we dem… https://t.co/xjd3NFMWnA
+66,0.5574,0.0,0.625,0.375,Fox News,Fri Sep 28 15:51:17 +0000 2018,.@LindseyGrahamSC’s Kavanaugh moment earns conservative praise https://t.co/cGbvcU2Wei
+67,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 15:48:41 +0000 2018,Kavanaugh vote live blog -- Senate Judiciary Committee weighs in on recommending nominee https://t.co/9xAUWQUoDW
+68,-0.25,0.176,0.694,0.13,Fox News,Fri Sep 28 15:25:14 +0000 2018,".@SenWhitehouse: “This may, may, be powerful corroborating evidence that the assault happened, that it happened tha… https://t.co/l1C2kZchiD"
+69,-0.4588,0.182,0.818,0.0,Fox News,Fri Sep 28 15:11:05 +0000 2018,OPINION: Kavanaugh showed his daughters what it means to fight for what's right -- even when it’s hard — @LDAppell https://t.co/vNwkmsKiBT
+70,0.3612,0.0,0.828,0.172,Fox News,Fri Sep 28 15:07:50 +0000 2018,"House GOP, Deputy AG Rosenstein agree to meet to discuss 'wire' report https://t.co/xyIVnDBFWQ"
+71,0.7783,0.0,0.702,0.298,Fox News,Fri Sep 28 15:06:57 +0000 2018,.@Jim_Jordan: “I think it’s great news that Senator Flake has said he’s going to support Judge Kavanaugh.” https://t.co/z1JjYu6hDC
+72,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:59:17 +0000 2018,Republican senators doxxed on Wikipedia by someone from House of Representatives after Kavanaugh hearing https://t.co/xMfJ7GiGfS
+73,0.1332,0.088,0.752,0.16,Fox News,Fri Sep 28 14:54:02 +0000 2018,.@LindseyGrahamSC: “I’ve been doing this legal stuff most of my life. I’ve never heard a more compelling defense of… https://t.co/iMW4RDNffO
+74,0.7906,0.0,0.682,0.318,Fox News,Fri Sep 28 14:53:11 +0000 2018,"Senator Lindsey Graham delivers remarks ahead of the vote on Supreme Court Justice nominee, Brett Kavanaugh.… https://t.co/Bm18yD5B5u"
+75,0.5859,0.0,0.826,0.174,Fox News,Fri Sep 28 14:49:45 +0000 2018,.@LindseyGrahamSC: “I didn’t think Trump would win. I ran out of adjectives to describe how I felt about his campai… https://t.co/MIfYz7gOGz
+76,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:44:25 +0000 2018,.@LindseyGrahamSC: “I know I’m a single white male from South Carolina and I’ve been told I should shut up but I wi… https://t.co/HFPowOAwhJ
+77,-0.296,0.242,0.758,0.0,Fox News,Fri Sep 28 14:42:57 +0000 2018,"Prosecutor tells wavering senators she wouldn't charge Kavanaugh, as vote looms https://t.co/Yze8ixrIbX"
+78,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:42:55 +0000 2018,"House Minority Leader, Nancy Pelosi, holds her weekly press conference. https://t.co/gIJtXOOa2M"
+79,0.0,0.15,0.701,0.15,Fox News,Fri Sep 28 14:34:26 +0000 2018,.@LindseyGrahamSC: “Every custom the Senate has embraced before Kavanaugh has been pretty much destroyed and I don’… https://t.co/7DITZlhpN1
+80,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:17:28 +0000 2018,Democrats from the House of Representatives hold a press conference on Brett Kavanaugh's nomination vote.… https://t.co/h8YWUSXQry
+81,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:11:53 +0000 2018,"Senator Kamala Harris, Senator Richard Blumenthal, and Senator Mazie Hirono hold a news conference after walking ou… https://t.co/Sql1PJJ8mQ"
+82,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:11:34 +0000 2018,Sen. Jeff Flake says he will vote to confirm Kavanaugh https://t.co/fwLJZ8fY1Y
+83,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:09:25 +0000 2018,.@SenFeinstein: “This was not someone who reflected an impartial temperament or the fairness and evenhandedness one… https://t.co/69rimWCaC8
+84,-0.5256,0.159,0.841,0.0,Fox News,Fri Sep 28 14:06:37 +0000 2018,.@SenFeinstein: “I’m very disappointed that we’re here today voting on this nomination especially in light of the t… https://t.co/3r79POJbUP
+85,-0.6113,0.266,0.734,0.0,Fox News,Fri Sep 28 13:56:26 +0000 2018,.@SenAmyKlobuchar: “They’re not answering because this is so unfair Mr. Chairman.” https://t.co/4zutp0Gykb
+86,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 13:49:52 +0000 2018,Democrats Call to Subpoena Mark Judge https://t.co/FVPyEJhAJf https://t.co/PvPnwV896Y
+87,-0.2263,0.091,0.909,0.0,Fox News,Fri Sep 28 13:44:15 +0000 2018,"BREAKING NEWS: Arizona GOP Sen. @JeffFlake, who was undecided on Brett Kavanaugh, says he will vote to confirm the… https://t.co/jEWNUmkdG8"
+88,0.5574,0.0,0.806,0.194,Fox News,Fri Sep 28 13:39:16 +0000 2018,"Senate Judiciary Committee meets to discuss nominations, including a scheduled vote on the Supreme Court nomination… https://t.co/9XGKNGSyUT"
+89,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 13:31:21 +0000 2018,Kavanaugh vote live blog -- Senate Judiciary Committee weighs in on recommending nominee https://t.co/9xAUWQUoDW
+90,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 13:24:08 +0000 2018,"Bill Clinton Accuser Juanita Broaddrick: Feinstein, Durbin Should 'Apologize' to Me https://t.co/zaZkFV9cN5"
+91,0.0772,0.216,0.541,0.243,Fox News,Fri Sep 28 12:58:54 +0000 2018,Massachusetts fire department welcomes 9 babies in 1 year https://t.co/fdiHC6IpnH
+92,-0.8625,0.425,0.575,0.0,Fox News,Fri Sep 28 12:44:07 +0000 2018,".@JohnCornyn: “I think this has been shameful. Shameful to Dr. Ford, shameful to Brett Kavanaugh.” https://t.co/sEeubf9AHa"
+93,0.3182,0.0,0.753,0.247,Fox News,Fri Sep 28 12:40:28 +0000 2018,.@JohnCornyn: “I’m optimistic we’ll confirm the judge.” https://t.co/9vgkkdYqZQ
+94,-0.3818,0.224,0.776,0.0,Fox News,Fri Sep 28 12:37:27 +0000 2018,Minnesota firefighter leaves his own wedding to battle blaze https://t.co/EoS2Wni0th
+95,0.7425,0.0,0.69,0.31,Fox News,Fri Sep 28 12:32:38 +0000 2018,.@GeraldoRivera: “I think it is very clear now that Judge Kavanaugh will become Justice Kavanaugh.” https://t.co/CO6Pn0XuIg
+96,0.5256,0.0,0.726,0.274,Fox News,Fri Sep 28 12:24:38 +0000 2018,.@mercedesschlapp: “The president is very proud of Brett Kavanaugh.” https://t.co/lxPatNle83
+97,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 11:41:39 +0000 2018,.@mercedesschlapp: “Judge Kavanaugh came with the facts. He opened his heart and he spoke the truth.” https://t.co/oqAlTupsfA
+98,0.7003,0.0,0.655,0.345,Fox News,Fri Sep 28 11:25:50 +0000 2018,.@GOPLeader: “The nation is better than this. We deserve better than this.” https://t.co/yy5ZUc0crw
+99,0.6757,0.0,0.684,0.316,Fox News,Fri Sep 28 11:22:10 +0000 2018,".@newtgingrich: ""Is there not a single Democrat sickened by what their party is doing?"" https://t.co/96yA59Z09x"
+0,0.6597,0.0,0.759,0.241,CNN Breaking News,Fri Sep 28 20:16:44 +0000 2018,"Senate GOP agrees to a week for an FBI investigation into US Supreme Court nominee Brett Kavanaugh, delaying a conf… https://t.co/Sx1ddc4nRI"
+1,-0.5574,0.167,0.833,0.0,CNN Breaking News,Fri Sep 28 19:43:36 +0000 2018,"Six Palestinians died after being shot by Israeli soldiers along the fence that separates Gaza and Israel, Palestin… https://t.co/dPEkfs3x4Z"
+2,-0.34,0.107,0.893,0.0,CNN Breaking News,Fri Sep 28 19:29:46 +0000 2018,The House passes the final version of a legislative package that aims to combat the opioid epidemic by a vote of 39… https://t.co/3eSpgLEGNU
+3,0.4854,0.095,0.644,0.262,CNN Breaking News,Fri Sep 28 18:04:58 +0000 2018,Senate panel approves Brett Kavanaugh's Supreme Court nomination but full vote could be delayed to allow for FBI in… https://t.co/IEHMpibH1Z
+4,-0.5267,0.239,0.761,0.0,CNN Breaking News,Fri Sep 28 17:05:39 +0000 2018,Facebook says an attack discovered earlier this week exposed information on nearly 50 million users… https://t.co/pAAQZDfGUz
+5,0.5574,0.0,0.825,0.175,CNN Breaking News,Fri Sep 28 15:43:11 +0000 2018,"Democratic Sen. Joe Donnelly, a key vote for Supreme Court nominee Brett Kavanaugh's confirmation, says he will vot… https://t.co/JhWURmyOJs"
+6,-0.4215,0.227,0.661,0.112,CNN Breaking News,Fri Sep 28 14:36:09 +0000 2018,"RT @CNNPolitics: Moments after announcing his support for Kavanaugh, Sen. Jeff Flake was immediately confronted by furious demonstrators wh…"
+7,0.5574,0.0,0.841,0.159,CNN Breaking News,Fri Sep 28 13:58:17 +0000 2018,The Senate Judiciary Committee moves to vote on Brett Kavanaugh's nomination to the Supreme Court at 1:30 p.m. ET.… https://t.co/5pxklRhpcj
+8,0.743,0.0,0.73,0.27,CNN Breaking News,Fri Sep 28 13:44:20 +0000 2018,Sen. Jeff Flake will vote yes to confirm Supreme Court nominee Brett Kavanaugh. He was considered a Republican swin… https://t.co/1dGjgeImX5
+9,-0.6705,0.191,0.809,0.0,CNN Breaking News,Fri Sep 28 13:06:27 +0000 2018,Iraqi social media star and model Tara Fares has been killed in Baghdad. An official says two motorcyclists opened… https://t.co/KcpUYACTuJ
+10,0.5574,0.0,0.833,0.167,CNN Breaking News,Fri Sep 28 04:15:35 +0000 2018,The American Bar Association is calling on the Senate Judiciary Committee to halt consideration of Supreme Court no… https://t.co/v6vKnGExAJ
+11,0.5574,0.0,0.825,0.175,CNN Breaking News,Fri Sep 28 00:33:11 +0000 2018,The Senate Judiciary Committee will vote Friday morning on whether to push Brett Kavanaugh's Supreme Court nominati… https://t.co/nVFlSMxspB
+12,0.3612,0.152,0.583,0.265,CNN Breaking News,Thu Sep 27 23:55:49 +0000 2018,RT @CNNPolitics: A once frustrated President Trump becomes optimistic about his Supreme Court nominee Brett Kavanaugh https://t.co/ascV5Gty…
+13,0.5574,0.0,0.841,0.159,CNN Breaking News,Thu Sep 27 23:29:17 +0000 2018,RT @CNNPolitics: JUST IN: Key senators are huddling privately to discuss the future of Supreme Court nominee Brett Kavanaugh https://t.co/w…
+14,-0.4404,0.218,0.782,0.0,CNN Breaking News,Thu Sep 27 21:15:09 +0000 2018,"GOP Sen. Lindsey Graham harshly criticized Democratic colleagues during questioning of Brett Kavanaugh, calling the… https://t.co/Paq3V66xYs"
+15,0.296,0.0,0.909,0.091,CNN Breaking News,Thu Sep 27 20:28:51 +0000 2018,Tesla CEO Elon Musk is sued by the Securities and Exchange Commission after he tweeted he had funding to take the c… https://t.co/cOnHrIcI5X
+16,-0.4939,0.275,0.583,0.142,CNN Breaking News,Thu Sep 27 19:40:07 +0000 2018,"Brett Kavanaugh passionately denies the allegations of sexual assault against him in his opening statement, calling… https://t.co/HtWtDgvy5D"
+17,0.5574,0.0,0.825,0.175,CNN Breaking News,Thu Sep 27 19:10:47 +0000 2018,Supreme Court nominee Brett Kavanaugh testifies following dramatic testimony from the woman who says he sexually as… https://t.co/pknsx6aMdf
+18,-0.5423,0.2,0.8,0.0,CNN Breaking News,Thu Sep 27 18:38:27 +0000 2018,"Officials believe they have found the body of Maddox Ritch, an autistic 6-year-old missing since his dad lost sight… https://t.co/njPt3pBmZo"
+19,-0.4939,0.138,0.862,0.0,CNN Breaking News,Thu Sep 27 16:39:28 +0000 2018,The prosecutor hired by Republicans asked Christine Blasey Ford about her fear of flying and other trips she has ta… https://t.co/8BkKrzGwwt
+20,0.6597,0.0,0.759,0.241,CNN Breaking News,Fri Sep 28 20:16:44 +0000 2018,"Senate GOP agrees to a week for an FBI investigation into US Supreme Court nominee Brett Kavanaugh, delaying a conf… https://t.co/Sx1ddc4nRI"
+21,-0.5574,0.167,0.833,0.0,CNN Breaking News,Fri Sep 28 19:43:36 +0000 2018,"Six Palestinians died after being shot by Israeli soldiers along the fence that separates Gaza and Israel, Palestin… https://t.co/dPEkfs3x4Z"
+22,-0.34,0.107,0.893,0.0,CNN Breaking News,Fri Sep 28 19:29:46 +0000 2018,The House passes the final version of a legislative package that aims to combat the opioid epidemic by a vote of 39… https://t.co/3eSpgLEGNU
+23,0.4854,0.095,0.644,0.262,CNN Breaking News,Fri Sep 28 18:04:58 +0000 2018,Senate panel approves Brett Kavanaugh's Supreme Court nomination but full vote could be delayed to allow for FBI in… https://t.co/IEHMpibH1Z
+24,-0.5267,0.239,0.761,0.0,CNN Breaking News,Fri Sep 28 17:05:39 +0000 2018,Facebook says an attack discovered earlier this week exposed information on nearly 50 million users… https://t.co/pAAQZDfGUz
+25,0.5574,0.0,0.825,0.175,CNN Breaking News,Fri Sep 28 15:43:11 +0000 2018,"Democratic Sen. Joe Donnelly, a key vote for Supreme Court nominee Brett Kavanaugh's confirmation, says he will vot… https://t.co/JhWURmyOJs"
+26,-0.4215,0.227,0.661,0.112,CNN Breaking News,Fri Sep 28 14:36:09 +0000 2018,"RT @CNNPolitics: Moments after announcing his support for Kavanaugh, Sen. Jeff Flake was immediately confronted by furious demonstrators wh…"
+27,0.5574,0.0,0.841,0.159,CNN Breaking News,Fri Sep 28 13:58:17 +0000 2018,The Senate Judiciary Committee moves to vote on Brett Kavanaugh's nomination to the Supreme Court at 1:30 p.m. ET.… https://t.co/5pxklRhpcj
+28,0.743,0.0,0.73,0.27,CNN Breaking News,Fri Sep 28 13:44:20 +0000 2018,Sen. Jeff Flake will vote yes to confirm Supreme Court nominee Brett Kavanaugh. He was considered a Republican swin… https://t.co/1dGjgeImX5
+29,-0.6705,0.191,0.809,0.0,CNN Breaking News,Fri Sep 28 13:06:27 +0000 2018,Iraqi social media star and model Tara Fares has been killed in Baghdad. An official says two motorcyclists opened… https://t.co/KcpUYACTuJ
+30,0.5574,0.0,0.833,0.167,CNN Breaking News,Fri Sep 28 04:15:35 +0000 2018,The American Bar Association is calling on the Senate Judiciary Committee to halt consideration of Supreme Court no… https://t.co/v6vKnGExAJ
+31,0.5574,0.0,0.825,0.175,CNN Breaking News,Fri Sep 28 00:33:11 +0000 2018,The Senate Judiciary Committee will vote Friday morning on whether to push Brett Kavanaugh's Supreme Court nominati… https://t.co/nVFlSMxspB
+32,0.3612,0.152,0.583,0.265,CNN Breaking News,Thu Sep 27 23:55:49 +0000 2018,RT @CNNPolitics: A once frustrated President Trump becomes optimistic about his Supreme Court nominee Brett Kavanaugh https://t.co/ascV5Gty…
+33,0.5574,0.0,0.841,0.159,CNN Breaking News,Thu Sep 27 23:29:17 +0000 2018,RT @CNNPolitics: JUST IN: Key senators are huddling privately to discuss the future of Supreme Court nominee Brett Kavanaugh https://t.co/w…
+34,-0.4404,0.218,0.782,0.0,CNN Breaking News,Thu Sep 27 21:15:09 +0000 2018,"GOP Sen. Lindsey Graham harshly criticized Democratic colleagues during questioning of Brett Kavanaugh, calling the… https://t.co/Paq3V66xYs"
+35,0.296,0.0,0.909,0.091,CNN Breaking News,Thu Sep 27 20:28:51 +0000 2018,Tesla CEO Elon Musk is sued by the Securities and Exchange Commission after he tweeted he had funding to take the c… https://t.co/cOnHrIcI5X
+36,-0.4939,0.275,0.583,0.142,CNN Breaking News,Thu Sep 27 19:40:07 +0000 2018,"Brett Kavanaugh passionately denies the allegations of sexual assault against him in his opening statement, calling… https://t.co/HtWtDgvy5D"
+37,0.5574,0.0,0.825,0.175,CNN Breaking News,Thu Sep 27 19:10:47 +0000 2018,Supreme Court nominee Brett Kavanaugh testifies following dramatic testimony from the woman who says he sexually as… https://t.co/pknsx6aMdf
+38,-0.5423,0.2,0.8,0.0,CNN Breaking News,Thu Sep 27 18:38:27 +0000 2018,"Officials believe they have found the body of Maddox Ritch, an autistic 6-year-old missing since his dad lost sight… https://t.co/njPt3pBmZo"
+39,-0.4939,0.138,0.862,0.0,CNN Breaking News,Thu Sep 27 16:39:28 +0000 2018,The prosecutor hired by Republicans asked Christine Blasey Ford about her fear of flying and other trips she has ta… https://t.co/8BkKrzGwwt
+40,0.4404,0.0,0.879,0.121,CNN Breaking News,Thu Sep 27 15:22:23 +0000 2018,RT @CNNPolitics: Christine Blasey Ford provides what she says is her strongest memory of the incident: “Indelible in the hippocampus is the…
+41,0.7169,0.0,0.794,0.206,CNN Breaking News,Thu Sep 27 15:12:19 +0000 2018,"RT @CNNPolitics: Feinstein: ""How are you so sure that it was (Kavanaugh)?”
+
+Ford: ""The same way that I'm sure that I'm talking to you right…"
+42,-0.1779,0.086,0.914,0.0,CNN Breaking News,Thu Sep 27 15:08:39 +0000 2018,"Christine Blasey Ford, her voice shaking, describes the night in the 1980s when she alleges Brett Kavanaugh sexuall… https://t.co/nKT0fTePNg"
+43,0.0,0.0,1.0,0.0,CNN Breaking News,Thu Sep 27 14:54:45 +0000 2018,RT @CNNPolitics: Christine Blasey Ford details how she met Brett Kavanaugh in her opening remarks: “But the details about that night that b…
+44,-0.6395,0.192,0.808,0.0,CNN Breaking News,Thu Sep 27 14:52:59 +0000 2018,RT @CNNPolitics: Christine Blasey Ford: “I am here today not because I want to be. I am terrified. I am here because I believe it is my civ…
+45,0.0,0.0,1.0,0.0,CNN Breaking News,Thu Sep 27 14:43:11 +0000 2018,"Christine Blasey Ford tells a Senate panel she is ""terrified"" to testify but feels it is her ""civic duty""… https://t.co/7RsWbhvDQH"
+46,0.0,0.0,1.0,0.0,CNN Breaking News,Thu Sep 27 14:38:08 +0000 2018,RT @CNNPolitics: Sen. Dianne Feinstein on why she waited to provide Christine Blasey Ford’s letter to the FBI: “I think as I make my remark…
+47,-0.3612,0.122,0.878,0.0,CNN Breaking News,Thu Sep 27 14:37:39 +0000 2018,"Sen. Grassley's opening statement criticized the process leading to the hearing, took shots at Sen. Feinstein and d… https://t.co/8sbgMMdpsA"
+48,0.0,0.0,1.0,0.0,CNN Breaking News,Thu Sep 27 14:21:45 +0000 2018,RT @CNNPolitics: Senate Judiciary Committee Chairman Chuck Grassley on the FBI reports conducted while vetting Brett Kavanaugh: “No where i…
+49,0.0,0.0,1.0,0.0,CNN Breaking News,Thu Sep 27 14:11:00 +0000 2018,RT @CNNPolitics: Christine Blasey Ford arrives to give her testimony before the Senate Judiciary Committee https://t.co/vr3wiHSp66
+50,0.34,0.092,0.756,0.151,CNN Breaking News,Thu Sep 27 14:02:58 +0000 2018,"Watch and follow live: Supreme Court nominee Brett Kavanaugh and Christine Blasey Ford, who has accused him of sexu… https://t.co/esjwi3mkfB"
+51,0.0,0.0,1.0,0.0,CNN Breaking News,Thu Sep 27 13:37:39 +0000 2018,Christine Blasey Ford is set to testify. #Metoo activist and actress Alyssa Milano is in the hearing room. Follow l… https://t.co/o4bL4zea4m
+52,-0.7964,0.353,0.647,0.0,CNN Breaking News,Thu Sep 27 13:02:36 +0000 2018,"Severe flooding has killed nearly 200 people in Nigeria, including a 9-year-old girl, officials say… https://t.co/dFfXYXN6tK"
+53,-0.6249,0.254,0.746,0.0,CNN Breaking News,Thu Sep 27 01:10:23 +0000 2018,RT @CNNPolitics: JUST IN: Brett Kavanaugh denies two additional accusations to the Senate Judiciary Committee https://t.co/tPtfYXUA4k https…
+54,0.4019,0.0,0.876,0.124,CNN Breaking News,Wed Sep 26 22:03:50 +0000 2018,The House approves a massive spending bill to fund the government. Trump must sign it by midnight Sunday to prevent… https://t.co/NLjNwMc520
+55,-0.068,0.108,0.797,0.095,CNN Breaking News,Wed Sep 26 21:50:16 +0000 2018,President Trump says at news conference he may delay Rosenstein meeting and would prefer not to fire him… https://t.co/9PTZZz3TxE
+56,0.0,0.0,1.0,0.0,CNN Breaking News,Wed Sep 26 21:28:24 +0000 2018,President Trump says at news conference he will watch hearings tomorrow and may change his mind on Kavanaugh… https://t.co/KEKKZBXUo3
+57,0.0,0.0,1.0,0.0,CNN Breaking News,Wed Sep 26 21:27:32 +0000 2018,"RT @CNNPolitics: President Trump on the FBI investigating the Kavanaugh allegations: ""I think when you really look at it all, it's not gonn…"
+58,0.5574,0.0,0.816,0.184,CNN Breaking News,Wed Sep 26 20:58:55 +0000 2018,President Trump holds a rare news conference ahead of Thursday hearings on Supreme Court nomination. Watch live:… https://t.co/TVXgoxGyfs
+59,0.6808,0.0,0.763,0.237,CNN Breaking News,Wed Sep 26 18:19:50 +0000 2018,"The Fed raises interest rates by a quarter point again, upping the rate that helps determine costs of mortgages and… https://t.co/1paFVJVE3q"
+60,0.4215,0.084,0.748,0.168,CNN Breaking News,Wed Sep 26 16:12:43 +0000 2018,A new woman comes forward to accuse Supreme Court nominee Brett Kavanaugh of inappropriate behavior during high sch… https://t.co/8C8zQIoyK5
+61,0.4019,0.113,0.64,0.246,CNN Breaking News,Wed Sep 26 15:12:51 +0000 2018,"President Trump voices support for a two-state solution to the Israeli-Palestinian conflict, saying, ""That's what I… https://t.co/1dljbQ6NHv"
+62,0.0,0.0,1.0,0.0,CNN Breaking News,Wed Sep 26 13:02:07 +0000 2018,Christine Blasey Ford and Brett Kavanaugh seek to bolster their cases with new documents https://t.co/fvx9xnJfGl https://t.co/naAGeFyDD4
+63,0.5574,0.0,0.806,0.194,CNN Breaking News,Wed Sep 26 03:20:34 +0000 2018,Senate Judiciary Committee Republicans have hired outside counsel Rachel Mitchell to question Supreme Court nominee… https://t.co/7l1simBxkI
+64,0.0,0.0,1.0,0.0,CNN Breaking News,Wed Sep 26 01:41:36 +0000 2018,"Delta's online systems are back up and running after a brief outage, the airline said https://t.co/dEETWshqew https://t.co/bXDO6ldwZY"
+65,0.0,0.0,1.0,0.0,CNN Breaking News,Wed Sep 26 01:18:01 +0000 2018,"Delta Air Lines issued a groundstop on Tuesday due to a system outage, according to a statement on the airline's we… https://t.co/yMFmxMJAGD"
+66,0.4767,0.0,0.853,0.147,CNN Breaking News,Wed Sep 26 00:04:29 +0000 2018,"The Senate Intelligence Committee subpoenas Randy Credico, who former Trump adviser Roger Stone says was his link t… https://t.co/Go1PU5qBGo"
+67,-0.1027,0.08,0.92,0.0,CNN Breaking News,Tue Sep 25 22:47:18 +0000 2018,"The Senate Judiciary Committee will vote on Brett Kavanaugh's nomination Friday, a day after questioning a woman wh… https://t.co/44v0OpADA4"
+68,-0.4215,0.141,0.859,0.0,CNN Breaking News,Tue Sep 25 19:02:25 +0000 2018,"Judge Steven O'Neill denies bail to Bill Cosby, according to a tweet from the Montgomery County District Attorney's… https://t.co/pCRXoGXnlH"
+69,-0.802,0.369,0.631,0.0,CNN Breaking News,Tue Sep 25 18:17:08 +0000 2018,Bill Cosby is sentenced to three to 10 years in state prison for sexual assault. https://t.co/ZdHvogvJPg https://t.co/wSZTVUmrvB
+70,0.743,0.0,0.733,0.267,CNN Breaking News,Tue Sep 25 17:19:03 +0000 2018,The UK Labour party votes in favor of a policy that would allow for a new public vote on Brexit if Prime Minister M… https://t.co/TJIRI6KzwA
+71,-0.5994,0.187,0.813,0.0,CNN Breaking News,Tue Sep 25 16:34:04 +0000 2018,"A judge determines Bill Cosby is a ""sexually violent predator"" who must register with police. Follow live updates a… https://t.co/c8OYZHm0xV"
+72,0.4939,0.0,0.849,0.151,CNN Breaking News,Tue Sep 25 15:11:55 +0000 2018,President Trump draws audible laughs during his UN speech with boast that his administration has achieved more than… https://t.co/3kSalbnuzQ
+73,0.0,0.0,1.0,0.0,CNN Breaking News,Tue Sep 25 14:35:24 +0000 2018,"RT @CNNPolitics: “I have much personal correspondence with Chairman Kim,” Trump says of his relationship with North Korean leader Kim Jong…"
+74,0.0,0.0,1.0,0.0,CNN Breaking News,Tue Sep 25 14:33:38 +0000 2018,"President Trump says Iran wants to meet with him but its leaders have to ""change their tune"" first. Follow live upd… https://t.co/9Tdubx7Yey"
+75,-0.3182,0.099,0.901,0.0,CNN Breaking News,Tue Sep 25 13:41:34 +0000 2018,RT @CNNMoney: Dow opens 60 points higher. Nasdaq trades flat. Facebook falls 2% as Instagram co-founders exit. General Electric loses 2% to…
+76,0.0,0.0,1.0,0.0,CNN Breaking News,Tue Sep 25 13:25:30 +0000 2018,"The White House is open to having Brett Kavanaugh's second accuser testify on Thursday, Sarah Sanders says. Follow… https://t.co/aCyJdUsJgV"
+77,-0.5994,0.205,0.795,0.0,CNN Breaking News,Tue Sep 25 13:05:35 +0000 2018,Bill Cosby arrives at a Pennsylvania court where he is expected to be sentenced today in his sexual assault case. F… https://t.co/TlirXcxYVR
+78,0.34,0.0,0.888,0.112,CNN Breaking News,Tue Sep 25 12:00:00 +0000 2018,Michael Kors gains a foothold in the world of elite European fashion by striking a $2.1 billion deal to buy Versace… https://t.co/a02uLxYlN1
+79,-0.7579,0.255,0.745,0.0,CNN Breaking News,Tue Sep 25 11:32:10 +0000 2018,A suspect is in custody and an investigation is underway after a US diplomat was found dead at home Friday in Madag… https://t.co/NI1CKbL56s
+80,-0.6808,0.306,0.694,0.0,CNN Breaking News,Tue Sep 25 06:01:16 +0000 2018,A Louisiana soldier was sentenced to 11 years in prison for constructing and detonating a chemical weapon last year… https://t.co/DizSiOgMnd
+81,0.4588,0.0,0.864,0.136,CNN Breaking News,Mon Sep 24 23:36:45 +0000 2018,"US Air Force awards $2.38 billion contract to Boeing for new helicopters to replace the Vietnam-era ""Hueys"" that ha… https://t.co/4hWnYoOi1R"
+82,0.0,0.0,1.0,0.0,CNN Breaking News,Mon Sep 24 21:58:28 +0000 2018,"Thousands of people in Georgetown, SC, were told to evacuate ahead of historic flooding in an area where multiple r… https://t.co/NldERoTebH"
+83,-0.6249,0.181,0.819,0.0,CNN Breaking News,Mon Sep 24 20:21:58 +0000 2018,RT @CNNMoney: Dow falls 181 points on trade worries. S&amp;P 500 drops 0.4%. Nasdaq inches higher. Michael Kors loses 8% on report that it’s ne…
+84,0.7351,0.0,0.733,0.267,CNN Breaking News,Mon Sep 24 18:43:36 +0000 2018,"Supreme Court nominee Brett Kavanaugh lashes out at ""smears"" after a new allegation emerges, and makes clear that h… https://t.co/Ls2bUGcq6G"
+85,-0.7184,0.273,0.727,0.0,CNN Breaking News,Mon Sep 24 17:33:39 +0000 2018,"Amber Guyger, the Dallas police officer charged with fatally shooting a man inside his apartment, is terminated aft… https://t.co/5gA55B6YVa"
+86,0.0,0.0,1.0,0.0,CNN Breaking News,Mon Sep 24 17:08:34 +0000 2018,President Trump will meet with Deputy Attorney General Rosenstein on Thursday. Follow live updates:… https://t.co/R4mSq8WtaY
+87,0.0,0.0,1.0,0.0,CNN Breaking News,Mon Sep 24 16:23:23 +0000 2018,Deputy Attorney General Rod Rosenstein has finished meeting with chief of staff Kelly at the White House. Follow li… https://t.co/C0eHqJjlFG
+88,0.2023,0.0,0.909,0.091,CNN Breaking News,Mon Sep 24 15:10:08 +0000 2018,"Deputy Attorney General Rosenstein, the top official overseeing the Mueller probe, is headed to the White House and… https://t.co/ArFOcUbVus"
+89,-0.6597,0.252,0.748,0.0,CNN Breaking News,Mon Sep 24 14:25:04 +0000 2018,Bill Cosby is in court for his sentencing hearing after April's sexual assault conviction. Follow live updates:… https://t.co/NMF7kTBvJV
+90,0.0,0.0,1.0,0.0,CNN Breaking News,Mon Sep 24 11:58:09 +0000 2018,RT @CNNMoney: SiriusXM is buying Pandora in a $3.5 billion deal https://t.co/0tkzweEBbf https://t.co/oUVn1dEQQp
+91,-0.4588,0.21,0.688,0.101,CNN Breaking News,Mon Sep 24 09:07:05 +0000 2018,Rescuers saved a yachtsman hit by a storm that left him badly injured with his boat drifting at sea for more than t… https://t.co/cXQt8gfv1q
+92,0.765,0.0,0.694,0.306,CNN Breaking News,Sun Sep 23 21:59:57 +0000 2018,Tiger Woods wins his first PGA tournament since 2013 with a victory in the Tour Championship https://t.co/mUEJmpwxSZ https://t.co/CQdgPL1b4i
+93,0.0,0.0,1.0,0.0,CNN Breaking News,Sun Sep 23 20:10:59 +0000 2018,A New Zealand supermarket chain is removing some Australian strawberries after needles were found in a container bo… https://t.co/00A4j8rfP1
+94,0.4939,0.0,0.842,0.158,CNN Breaking News,Sun Sep 23 19:50:22 +0000 2018,"An ""exceptionally rare"" two-headed copperhead snake was found in Virginia. Wildlife experts are caring for it, and… https://t.co/H8t96KIGq4"
+95,-0.4588,0.13,0.87,0.0,CNN Breaking News,Sun Sep 23 19:06:22 +0000 2018,"Pirates attacked a Swiss cargo ship off the coast of Nigeria and took 12 crew members hostage, the ship's owner say… https://t.co/KpTUqasIau"
+96,0.1621,0.0,0.917,0.083,CNN Breaking News,Sun Sep 23 18:13:13 +0000 2018,Texas officials found almost $18 million worth of cocaine hidden inside a shipment of bananas donated to the prison… https://t.co/GO42wNJCMQ
+97,-0.7184,0.273,0.727,0.0,CNN Breaking News,Sun Sep 23 17:20:55 +0000 2018,"Christine Blasey Ford, who accused Brett Kavanaugh of sexual assault, will testify Thursday before the Senate Judic… https://t.co/JibeGJ6tVt"
+98,0.3818,0.0,0.874,0.126,CNN Breaking News,Sun Sep 23 13:55:48 +0000 2018,"CNN’s Jake Tapper: “Doesn’t Kavanaugh have the same presumption of innocence as anyone else in America?”
+
+Sen. Mazi… https://t.co/mU5jbWvwNW"
+99,0.5563,0.0,0.854,0.146,CNN Breaking News,Sun Sep 23 13:40:32 +0000 2018,"“She’s coming forward and very bravely saying, ‘I will tell my story,’ so I’m going to do everything I can to make… https://t.co/0xuQeDKxtn"
+0,0.296,0.149,0.585,0.266,Fox News,Fri Sep 28 21:30:29 +0000 2018,"Kavanaugh friend Mark Judge agrees to cooperate with @FBI probe, denies latest allegations https://t.co/7DGISHByWf"
+1,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 21:20:10 +0000 2018,".@POTUS on Friday ordered the @FBI to conduct a ""supplemental"" investigation into the allegations of sexual assault… https://t.co/kGI0cg5Vj0"
+2,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 21:08:09 +0000 2018,BREAKING: @POTUS orders ‘supplemental’ @FBI investigation into Kavanaugh https://t.co/Ms2j0jiiKb
+3,-0.2263,0.137,0.863,0.0,Fox News,Fri Sep 28 20:47:58 +0000 2018,Senate Republicans ask for limited FBI investigation of Kavanaugh before floor vote https://t.co/HO6DZ2Fva1
+4,-0.7506,0.33,0.67,0.0,Fox News,Fri Sep 28 20:36:16 +0000 2018,".@LindseyGrahamSC on if Senators are mad at @JeffFlake: ""you're mad at him, that's unreasonable.""… https://t.co/a761Oj6Zem"
+5,0.5413,0.0,0.845,0.155,Fox News,Fri Sep 28 20:31:16 +0000 2018,"FULL REMARKS: Sen. @LindseyGrahamSC on Judge Kavanaugh: ""I know all I need to know. I'm very confident in this man:… https://t.co/wRIBm5Ni8M"
+6,0.6908,0.0,0.749,0.251,Fox News,Fri Sep 28 20:30:19 +0000 2018,".@LindseyGrahamSC on Kavanaugh nomination: ""I feel like The White House will honor the request of the committee to… https://t.co/Tnv0MouekY"
+7,0.4019,0.0,0.863,0.137,Fox News,Fri Sep 28 20:25:21 +0000 2018,".@LindseyGrahamSC on Kavanaugh nomination: ""Hopefully in the next few days the FBI will answer questions that linge… https://t.co/fEsYVzuqWQ"
+8,0.25,0.0,0.895,0.105,Fox News,Fri Sep 28 20:23:11 +0000 2018,Senators deliver remarks on the Senate floor after the Senate Judiciary Committee endorsed Judge Brett Kavanaugh in… https://t.co/WLZkKMtRio
+9,0.25,0.0,0.882,0.118,Fox News,Fri Sep 28 20:21:40 +0000 2018,Senator @LindseyGrahamSC speaks to reporters after the Senate Judiciary Committee endorsed Judge Brett Kavanaugh in… https://t.co/qQWMttIrrp
+10,-0.7959,0.366,0.634,0.0,Fox News,Fri Sep 28 20:16:00 +0000 2018,'Look at Me When I'm Talking to You!': Sexual Assault Victims Confront Flake Before Kavanaugh Vote https://t.co/XktYNE1VZC
+11,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 20:11:22 +0000 2018,Trace Gallagher is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/yzDIRM8nlH
+12,-0.3182,0.223,0.777,0.0,Fox News,Fri Sep 28 20:10:58 +0000 2018,OPINION: Kavanaugh hearing echoes Clarence Thomas-Anita Hill confrontation https://t.co/pNVwvORMGD
+13,0.6908,0.0,0.749,0.251,Fox News,Fri Sep 28 20:08:37 +0000 2018,Senate GOP leaders have agreed to seek an additional FBI investigation into Supreme Court nominee Brett Kavanaugh b… https://t.co/m0NOjt0APT
+14,0.3612,0.0,0.872,0.128,Fox News,Fri Sep 28 20:02:39 +0000 2018,BREAKING: Senate GOP leaders agree to seek an additional FBI background investigation into Brett Kavanaugh before a… https://t.co/hd431cb9sp
+15,0.5574,0.0,0.816,0.184,Fox News,Fri Sep 28 20:00:02 +0000 2018,"In her weekly press conference, House Minority Leader @NancyPelosi called out Supreme Court nominee Brett Kavanaugh… https://t.co/KHUs5Eq97m"
+16,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 19:57:54 +0000 2018,Fox News Beats CNN and MSNBC Combined in Kavanaugh Hearing Viewers https://t.co/g7yGqFD1jR
+17,0.6249,0.0,0.788,0.212,Fox News,Fri Sep 28 19:53:00 +0000 2018,"Sen. @LindseyGrahamSC said he’s been doing “this legal stuff most of [his] life,” and went on to praise Judge Brett… https://t.co/Tf3n3trGfO"
+18,0.0258,0.0,0.942,0.058,Fox News,Fri Sep 28 19:45:39 +0000 2018,".@SenJoniErnst on allegations against Kavanaugh: ""I do know that Dr. Ford wanted to keep this a private matter and… https://t.co/KkH4HEkmKu"
+19,0.4404,0.0,0.861,0.139,Fox News,Fri Sep 28 19:44:46 +0000 2018,".@SenJoniErnst: ""[Judge Kavanaugh] has truly been put through the ringer this last week, and I feel for the family.… https://t.co/cbq5FHfMwP"
+20,0.296,0.149,0.585,0.266,Fox News,Fri Sep 28 21:30:29 +0000 2018,"Kavanaugh friend Mark Judge agrees to cooperate with @FBI probe, denies latest allegations https://t.co/7DGISHByWf"
+21,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 21:20:10 +0000 2018,".@POTUS on Friday ordered the @FBI to conduct a ""supplemental"" investigation into the allegations of sexual assault… https://t.co/kGI0cg5Vj0"
+22,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 21:08:09 +0000 2018,BREAKING: @POTUS orders ‘supplemental’ @FBI investigation into Kavanaugh https://t.co/Ms2j0jiiKb
+23,-0.2263,0.137,0.863,0.0,Fox News,Fri Sep 28 20:47:58 +0000 2018,Senate Republicans ask for limited FBI investigation of Kavanaugh before floor vote https://t.co/HO6DZ2Fva1
+24,-0.7506,0.33,0.67,0.0,Fox News,Fri Sep 28 20:36:16 +0000 2018,".@LindseyGrahamSC on if Senators are mad at @JeffFlake: ""you're mad at him, that's unreasonable.""… https://t.co/a761Oj6Zem"
+25,0.5413,0.0,0.845,0.155,Fox News,Fri Sep 28 20:31:16 +0000 2018,"FULL REMARKS: Sen. @LindseyGrahamSC on Judge Kavanaugh: ""I know all I need to know. I'm very confident in this man:… https://t.co/wRIBm5Ni8M"
+26,0.6908,0.0,0.749,0.251,Fox News,Fri Sep 28 20:30:19 +0000 2018,".@LindseyGrahamSC on Kavanaugh nomination: ""I feel like The White House will honor the request of the committee to… https://t.co/Tnv0MouekY"
+27,0.4019,0.0,0.863,0.137,Fox News,Fri Sep 28 20:25:21 +0000 2018,".@LindseyGrahamSC on Kavanaugh nomination: ""Hopefully in the next few days the FBI will answer questions that linge… https://t.co/fEsYVzuqWQ"
+28,0.25,0.0,0.895,0.105,Fox News,Fri Sep 28 20:23:11 +0000 2018,Senators deliver remarks on the Senate floor after the Senate Judiciary Committee endorsed Judge Brett Kavanaugh in… https://t.co/WLZkKMtRio
+29,0.25,0.0,0.882,0.118,Fox News,Fri Sep 28 20:21:40 +0000 2018,Senator @LindseyGrahamSC speaks to reporters after the Senate Judiciary Committee endorsed Judge Brett Kavanaugh in… https://t.co/qQWMttIrrp
+30,-0.7959,0.366,0.634,0.0,Fox News,Fri Sep 28 20:16:00 +0000 2018,'Look at Me When I'm Talking to You!': Sexual Assault Victims Confront Flake Before Kavanaugh Vote https://t.co/XktYNE1VZC
+31,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 20:11:22 +0000 2018,Trace Gallagher is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/yzDIRM8nlH
+32,-0.3182,0.223,0.777,0.0,Fox News,Fri Sep 28 20:10:58 +0000 2018,OPINION: Kavanaugh hearing echoes Clarence Thomas-Anita Hill confrontation https://t.co/pNVwvORMGD
+33,0.6908,0.0,0.749,0.251,Fox News,Fri Sep 28 20:08:37 +0000 2018,Senate GOP leaders have agreed to seek an additional FBI investigation into Supreme Court nominee Brett Kavanaugh b… https://t.co/m0NOjt0APT
+34,0.3612,0.0,0.872,0.128,Fox News,Fri Sep 28 20:02:39 +0000 2018,BREAKING: Senate GOP leaders agree to seek an additional FBI background investigation into Brett Kavanaugh before a… https://t.co/hd431cb9sp
+35,0.5574,0.0,0.816,0.184,Fox News,Fri Sep 28 20:00:02 +0000 2018,"In her weekly press conference, House Minority Leader @NancyPelosi called out Supreme Court nominee Brett Kavanaugh… https://t.co/KHUs5Eq97m"
+36,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 19:57:54 +0000 2018,Fox News Beats CNN and MSNBC Combined in Kavanaugh Hearing Viewers https://t.co/g7yGqFD1jR
+37,0.6249,0.0,0.788,0.212,Fox News,Fri Sep 28 19:53:00 +0000 2018,"Sen. @LindseyGrahamSC said he’s been doing “this legal stuff most of [his] life,” and went on to praise Judge Brett… https://t.co/Tf3n3trGfO"
+38,0.0258,0.0,0.942,0.058,Fox News,Fri Sep 28 19:45:39 +0000 2018,".@SenJoniErnst on allegations against Kavanaugh: ""I do know that Dr. Ford wanted to keep this a private matter and… https://t.co/KkH4HEkmKu"
+39,0.4404,0.0,0.861,0.139,Fox News,Fri Sep 28 19:44:46 +0000 2018,".@SenJoniErnst: ""[Judge Kavanaugh] has truly been put through the ringer this last week, and I feel for the family.… https://t.co/cbq5FHfMwP"
+40,0.4404,0.0,0.861,0.139,Fox News,Fri Sep 28 19:32:26 +0000 2018,"@SenJoniErnst: ""[Judge Kavanaugh] has truly been put through the ringer this last week, and I feel for the family.""… https://t.co/pFK9Xiy7uX"
+41,0.25,0.0,0.895,0.105,Fox News,Fri Sep 28 19:31:52 +0000 2018,Senators deliver remarks on the Senate floor after the Senate Judiciary Committee endorsed Judge Brett Kavanaugh in… https://t.co/12rBCrqOKp
+42,0.0258,0.0,0.945,0.055,Fox News,Fri Sep 28 19:23:09 +0000 2018,"@SenJoniErnst on allegations against Kavanaugh: ""I do know that Dr. Ford wanted to keep this a private matter and u… https://t.co/nJL6xPtaP7"
+43,0.3612,0.0,0.865,0.135,Fox News,Fri Sep 28 19:14:42 +0000 2018,"During a meeting with the Chilean President, @POTUS discussed the Senate Judiciary Committee's vote to recommend Br… https://t.co/5bwCTj9ut6"
+44,0.7269,0.0,0.747,0.253,Fox News,Fri Sep 28 19:11:43 +0000 2018,"Sen. @JeffFlake voted to recommend Brett Kavanaugh for the Supreme Court Friday, with the caveat that the @FBI inve… https://t.co/myZP86RQse"
+45,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 19:02:10 +0000 2018,".@ChrisCoons: ""My Republican colleagues...accused Democrats of simply trying to hold this open past the election. T… https://t.co/aEfZvTeMKO"
+46,0.25,0.0,0.895,0.105,Fox News,Fri Sep 28 19:02:09 +0000 2018,Senators deliver remarks on the Senate floor after the Senate Judiciary Committee endorsed Judge Brett Kavanaugh in… https://t.co/9VeS5UShEB
+47,-0.6124,0.238,0.762,0.0,Fox News,Fri Sep 28 18:46:40 +0000 2018,".@ChrisCoons: ""I think yesterday's very long hearing was a difficult day for Dr. Ford, a difficult for Judge Kavana… https://t.co/LzMG6UWZdZ"
+48,0.5574,0.0,0.816,0.184,Fox News,Fri Sep 28 18:32:20 +0000 2018,".@POTUS on possibility of re-opening background investigation on Supreme Court nominee Brett Kavanaugh: ""I will be… https://t.co/lqwQNYjR9m"
+49,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 18:25:26 +0000 2018,"Reporter: ""Have you thought at all about a replacement for Judge Kavanaugh?""
+
+@POTUS: ""Not even a little bit.""… https://t.co/o8VAORf5gH"
+50,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 18:18:20 +0000 2018,Senators speak after Senate Judiciary Committee meeting adjourns. https://t.co/6fiSRohGYx
+51,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 18:08:12 +0000 2018,Senators give statements after Senate Judiciary meeting has been adjourned. https://t.co/Zoo30akunq
+52,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 17:57:25 +0000 2018,.@ChuckGrassley: “The nominee will be reported to the floor.” https://t.co/FVPyEJhAJf https://t.co/ZDuQpu2GeP
+53,-0.1655,0.064,0.936,0.0,Fox News,Fri Sep 28 17:53:30 +0000 2018,".@JeffFlake: “I think it would be proper to delay the floor vote for up to but not more than one week, in order to… https://t.co/2DbYjQrFpo"
+54,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 17:33:34 +0000 2018,"House Republicans vote to release Russia probe transcripts, plan subpoena for Fusion GPS co-founder https://t.co/wtP0ad8zmC"
+55,0.5574,0.0,0.769,0.231,Fox News,Fri Sep 28 17:29:30 +0000 2018,SOON: Senate Judiciary Committee to Vote on Kavanaugh's Supreme Court Nomination https://t.co/FVPyEJhAJf https://t.co/CCrFpn4GCd
+56,0.5574,0.0,0.825,0.175,Fox News,Fri Sep 28 17:27:55 +0000 2018,Senate Judiciary Committee meets to vote on the nomination of Judge Brett Kavanaugh to the Supreme Court.… https://t.co/STmgGOpwEf
+57,0.2023,0.107,0.733,0.16,Fox News,Fri Sep 28 17:07:26 +0000 2018,JUST IN: Facebook says 50 million user accounts affected by security breach https://t.co/poBFHKN8PU
+58,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 17:04:29 +0000 2018,'This Is About Smears': @SenTedCruz Says Kavanaugh Confirmation Has Become 'a Partisan Circus' https://t.co/XTAxAnEe0P
+59,-0.4404,0.139,0.861,0.0,Fox News,Fri Sep 28 16:57:44 +0000 2018,".@SenJohnKennedy: “This has been an intergalactic freak show. As far as I'm concerned, Congress has hit rock bottom… https://t.co/Ivq7i26mrj"
+60,0.3412,0.0,0.888,0.112,Fox News,Fri Sep 28 16:53:12 +0000 2018,".@CoryBooker: “We should not brush aside her comments, we should not belittle her testimony. We should listen to he… https://t.co/VGkN48hBPy"
+61,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 16:49:23 +0000 2018,".@CoryBooker: “This is not a partisan moment, this is a moral moment in our nation. We do not have to have this vot… https://t.co/cj36kHqj8w"
+62,0.2263,0.126,0.629,0.245,Fox News,Fri Sep 28 16:38:53 +0000 2018,Dem Senator: Kavanaugh's Calendar 'May Be Powerful Evidence' Backing Up Ford's Accusation https://t.co/DhXk2HqHR0
+63,0.4466,0.0,0.816,0.184,Fox News,Fri Sep 28 16:37:32 +0000 2018,"RT @FoxBusiness: RECALL ALERT: Honda recalling more than 200,000 cars in the U.S. https://t.co/1QJWSm5hG3"
+64,0.765,0.048,0.68,0.272,Fox News,Fri Sep 28 16:35:45 +0000 2018,".@CoryBooker: “When we swear an oath to liberty and justice for all, I don’t think we’re there yet as a country.”… https://t.co/GMMUx3cEy6"
+65,0.4588,0.0,0.857,0.143,Fox News,Fri Sep 28 16:31:18 +0000 2018,.@CoryBooker: “The goodness and the decency of Republicans and Democrats in this country is self-evident and we dem… https://t.co/xjd3NFMWnA
+66,0.5574,0.0,0.625,0.375,Fox News,Fri Sep 28 15:51:17 +0000 2018,.@LindseyGrahamSC’s Kavanaugh moment earns conservative praise https://t.co/cGbvcU2Wei
+67,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 15:48:41 +0000 2018,Kavanaugh vote live blog -- Senate Judiciary Committee weighs in on recommending nominee https://t.co/9xAUWQUoDW
+68,-0.25,0.176,0.694,0.13,Fox News,Fri Sep 28 15:25:14 +0000 2018,".@SenWhitehouse: “This may, may, be powerful corroborating evidence that the assault happened, that it happened tha… https://t.co/l1C2kZchiD"
+69,-0.4588,0.182,0.818,0.0,Fox News,Fri Sep 28 15:11:05 +0000 2018,OPINION: Kavanaugh showed his daughters what it means to fight for what's right -- even when it’s hard — @LDAppell https://t.co/vNwkmsKiBT
+70,0.3612,0.0,0.828,0.172,Fox News,Fri Sep 28 15:07:50 +0000 2018,"House GOP, Deputy AG Rosenstein agree to meet to discuss 'wire' report https://t.co/xyIVnDBFWQ"
+71,0.7783,0.0,0.702,0.298,Fox News,Fri Sep 28 15:06:57 +0000 2018,.@Jim_Jordan: “I think it’s great news that Senator Flake has said he’s going to support Judge Kavanaugh.” https://t.co/z1JjYu6hDC
+72,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:59:17 +0000 2018,Republican senators doxxed on Wikipedia by someone from House of Representatives after Kavanaugh hearing https://t.co/xMfJ7GiGfS
+73,0.1332,0.088,0.752,0.16,Fox News,Fri Sep 28 14:54:02 +0000 2018,.@LindseyGrahamSC: “I’ve been doing this legal stuff most of my life. I’ve never heard a more compelling defense of… https://t.co/iMW4RDNffO
+74,0.7906,0.0,0.682,0.318,Fox News,Fri Sep 28 14:53:11 +0000 2018,"Senator Lindsey Graham delivers remarks ahead of the vote on Supreme Court Justice nominee, Brett Kavanaugh.… https://t.co/Bm18yD5B5u"
+75,0.5859,0.0,0.826,0.174,Fox News,Fri Sep 28 14:49:45 +0000 2018,.@LindseyGrahamSC: “I didn’t think Trump would win. I ran out of adjectives to describe how I felt about his campai… https://t.co/MIfYz7gOGz
+76,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:44:25 +0000 2018,.@LindseyGrahamSC: “I know I’m a single white male from South Carolina and I’ve been told I should shut up but I wi… https://t.co/HFPowOAwhJ
+77,-0.296,0.242,0.758,0.0,Fox News,Fri Sep 28 14:42:57 +0000 2018,"Prosecutor tells wavering senators she wouldn't charge Kavanaugh, as vote looms https://t.co/Yze8ixrIbX"
+78,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:42:55 +0000 2018,"House Minority Leader, Nancy Pelosi, holds her weekly press conference. https://t.co/gIJtXOOa2M"
+79,0.0,0.15,0.701,0.15,Fox News,Fri Sep 28 14:34:26 +0000 2018,.@LindseyGrahamSC: “Every custom the Senate has embraced before Kavanaugh has been pretty much destroyed and I don’… https://t.co/7DITZlhpN1
+80,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:17:28 +0000 2018,Democrats from the House of Representatives hold a press conference on Brett Kavanaugh's nomination vote.… https://t.co/h8YWUSXQry
+81,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:11:53 +0000 2018,"Senator Kamala Harris, Senator Richard Blumenthal, and Senator Mazie Hirono hold a news conference after walking ou… https://t.co/Sql1PJJ8mQ"
+82,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:11:34 +0000 2018,Sen. Jeff Flake says he will vote to confirm Kavanaugh https://t.co/fwLJZ8fY1Y
+83,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 14:09:25 +0000 2018,.@SenFeinstein: “This was not someone who reflected an impartial temperament or the fairness and evenhandedness one… https://t.co/69rimWCaC8
+84,-0.5256,0.159,0.841,0.0,Fox News,Fri Sep 28 14:06:37 +0000 2018,.@SenFeinstein: “I’m very disappointed that we’re here today voting on this nomination especially in light of the t… https://t.co/3r79POJbUP
+85,-0.6113,0.266,0.734,0.0,Fox News,Fri Sep 28 13:56:26 +0000 2018,.@SenAmyKlobuchar: “They’re not answering because this is so unfair Mr. Chairman.” https://t.co/4zutp0Gykb
+86,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 13:49:52 +0000 2018,Democrats Call to Subpoena Mark Judge https://t.co/FVPyEJhAJf https://t.co/PvPnwV896Y
+87,-0.2263,0.091,0.909,0.0,Fox News,Fri Sep 28 13:44:15 +0000 2018,"BREAKING NEWS: Arizona GOP Sen. @JeffFlake, who was undecided on Brett Kavanaugh, says he will vote to confirm the… https://t.co/jEWNUmkdG8"
+88,0.5574,0.0,0.806,0.194,Fox News,Fri Sep 28 13:39:16 +0000 2018,"Senate Judiciary Committee meets to discuss nominations, including a scheduled vote on the Supreme Court nomination… https://t.co/9XGKNGSyUT"
+89,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 13:31:21 +0000 2018,Kavanaugh vote live blog -- Senate Judiciary Committee weighs in on recommending nominee https://t.co/9xAUWQUoDW
+90,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 13:24:08 +0000 2018,"Bill Clinton Accuser Juanita Broaddrick: Feinstein, Durbin Should 'Apologize' to Me https://t.co/zaZkFV9cN5"
+91,0.0772,0.216,0.541,0.243,Fox News,Fri Sep 28 12:58:54 +0000 2018,Massachusetts fire department welcomes 9 babies in 1 year https://t.co/fdiHC6IpnH
+92,-0.8625,0.425,0.575,0.0,Fox News,Fri Sep 28 12:44:07 +0000 2018,".@JohnCornyn: “I think this has been shameful. Shameful to Dr. Ford, shameful to Brett Kavanaugh.” https://t.co/sEeubf9AHa"
+93,0.3182,0.0,0.753,0.247,Fox News,Fri Sep 28 12:40:28 +0000 2018,.@JohnCornyn: “I’m optimistic we’ll confirm the judge.” https://t.co/9vgkkdYqZQ
+94,-0.3818,0.224,0.776,0.0,Fox News,Fri Sep 28 12:37:27 +0000 2018,Minnesota firefighter leaves his own wedding to battle blaze https://t.co/EoS2Wni0th
+95,0.7425,0.0,0.69,0.31,Fox News,Fri Sep 28 12:32:38 +0000 2018,.@GeraldoRivera: “I think it is very clear now that Judge Kavanaugh will become Justice Kavanaugh.” https://t.co/CO6Pn0XuIg
+96,0.5256,0.0,0.726,0.274,Fox News,Fri Sep 28 12:24:38 +0000 2018,.@mercedesschlapp: “The president is very proud of Brett Kavanaugh.” https://t.co/lxPatNle83
+97,0.0,0.0,1.0,0.0,Fox News,Fri Sep 28 11:41:39 +0000 2018,.@mercedesschlapp: “Judge Kavanaugh came with the facts. He opened his heart and he spoke the truth.” https://t.co/oqAlTupsfA
+98,0.7003,0.0,0.655,0.345,Fox News,Fri Sep 28 11:25:50 +0000 2018,.@GOPLeader: “The nation is better than this. We deserve better than this.” https://t.co/yy5ZUc0crw
+99,0.6757,0.0,0.684,0.316,Fox News,Fri Sep 28 11:22:10 +0000 2018,".@newtgingrich: ""Is there not a single Democrat sickened by what their party is doing?"" https://t.co/96yA59Z09x"
+0,-0.6369,0.234,0.766,0.0,The New York Times,Sat Sep 29 03:02:02 +0000 2018,RT @dgelles: NEW: The story behind the lawsuit with details of the proposed settlement that Elon rejected. w ⁦@MattGoldstein26⁩ ⁦@FlitterOn…
+1,0.25,0.0,0.889,0.111,The New York Times,Sat Sep 29 02:45:07 +0000 2018,The Yankees have clinched home-field advantage for Wednesday’s American League wild-card playoff game against the O… https://t.co/UGsXFGC2KD
+2,-0.3182,0.223,0.777,0.0,The New York Times,Sat Sep 29 02:32:03 +0000 2018,"How the FBI will investigate the Kavanaugh accusations
+https://t.co/Ak24Cp4Ppz"
+3,-0.5267,0.134,0.866,0.0,The New York Times,Sat Sep 29 02:17:02 +0000 2018,"RT @nytgraphics: The Senate testimony of Christine Blasey Ford and Judge Brett M. Kavanaugh, the man she alleges assaulted her while they w…"
+4,0.0,0.0,1.0,0.0,The New York Times,Sat Sep 29 02:02:03 +0000 2018,"In case you're listening to Robyn's new song, ""Honey,"" on repeat...  https://t.co/HtBIfytqh8"
+5,-0.296,0.099,0.901,0.0,The New York Times,Sat Sep 29 01:47:47 +0000 2018,A sleepless night and pressure from all sides: Inside the 24 hours that led Senator Jeff Flake to call to investiga… https://t.co/HzGlZScKGU
+6,0.0,0.0,1.0,0.0,The New York Times,Sat Sep 29 01:32:04 +0000 2018,Anita Hill had several messages for Christine Blasey Ford: “Be authentic and do what feels right to you” https://t.co/gIYTDWE6VQ
+7,0.4939,0.0,0.849,0.151,The New York Times,Sat Sep 29 01:17:02 +0000 2018,"RT @nytopinion: Senate Republicans might note, with a little humility, that subsequent reporting has pretty much confirmed that Anita Hill…"
+8,0.0,0.0,1.0,0.0,The New York Times,Sat Sep 29 01:02:06 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/TbxHJzojC5
+9,0.3182,0.0,0.901,0.099,The New York Times,Sat Sep 29 00:47:04 +0000 2018,Cher's album of Abba covers is finally here. She told us she actually wasn’t a big fan of Abba in the ’70s. https://t.co/zbSmPZ80Wd
+10,0.0,0.0,1.0,0.0,The New York Times,Sat Sep 29 00:41:00 +0000 2018,Get our On Politics newsletter delivered to your inbox. Sign up here: https://t.co/rcoPNR5UI7
+11,0.0,0.0,1.0,0.0,The New York Times,Sat Sep 29 00:32:04 +0000 2018,"Nearly 1,600 readers wrote to express their opinion about the Kavanaugh hearing. We got notes from as far as Austra… https://t.co/8Qlyfo8j7q"
+12,0.1952,0.109,0.753,0.138,The New York Times,Sat Sep 29 00:17:07 +0000 2018,"RT @ByJamesWagner: The Mets have done a lot more losing than winning in their history. Yet somehow, and despite the time differences, they…"
+13,0.34,0.0,0.876,0.124,The New York Times,Sat Sep 29 00:02:07 +0000 2018,"In a unanimous vote, Canadian lawmakers move to strip Daw Aung San Suu Kyi of her honorary citizenship https://t.co/Cyq2QnGkZs"
+14,0.3612,0.0,0.898,0.102,The New York Times,Fri Sep 28 23:47:07 +0000 2018,"""The Simpsons"" starts its 30th season this weekend. We took a look at how the series and its place in TV comedy hav… https://t.co/jJkV6EpoSR"
+15,-0.8555,0.37,0.63,0.0,The New York Times,Fri Sep 28 23:32:05 +0000 2018,Scraps of a former NFL lineman’s diary found after his death offer a painful glimpse of a football player losing hi… https://t.co/0esK6SNmHS
+16,-0.5423,0.191,0.809,0.0,The New York Times,Fri Sep 28 23:17:05 +0000 2018,"RT @dagnysalas: Your one stop for @nytimes links on Brett Kavanaugh, Christine Blasey Ford, the other accusations, the fallout, what's next…"
+17,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 23:02:06 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/MuyyIkGSdj
+18,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 22:47:05 +0000 2018,"RT @MikeIsaac: one last nugget, which will go in our final story once updated later today: 
+
+Mark Zuckerberg and Sheryl Sandberg's Facebook…"
+19,0.2584,0.0,0.903,0.097,The New York Times,Fri Sep 28 22:32:02 +0000 2018,"The DeSantis campaign did not deny being behind the text messages, which appeared to target voters with Jewish last… https://t.co/6tKxB1FMfG"
+20,-0.6369,0.234,0.766,0.0,The New York Times,Sat Sep 29 03:02:02 +0000 2018,RT @dgelles: NEW: The story behind the lawsuit with details of the proposed settlement that Elon rejected. w ⁦@MattGoldstein26⁩ ⁦@FlitterOn…
+21,0.25,0.0,0.889,0.111,The New York Times,Sat Sep 29 02:45:07 +0000 2018,The Yankees have clinched home-field advantage for Wednesday’s American League wild-card playoff game against the O… https://t.co/UGsXFGC2KD
+22,-0.3182,0.223,0.777,0.0,The New York Times,Sat Sep 29 02:32:03 +0000 2018,"How the FBI will investigate the Kavanaugh accusations
+https://t.co/Ak24Cp4Ppz"
+23,-0.5267,0.134,0.866,0.0,The New York Times,Sat Sep 29 02:17:02 +0000 2018,"RT @nytgraphics: The Senate testimony of Christine Blasey Ford and Judge Brett M. Kavanaugh, the man she alleges assaulted her while they w…"
+24,0.0,0.0,1.0,0.0,The New York Times,Sat Sep 29 02:02:03 +0000 2018,"In case you're listening to Robyn's new song, ""Honey,"" on repeat...  https://t.co/HtBIfytqh8"
+25,-0.296,0.099,0.901,0.0,The New York Times,Sat Sep 29 01:47:47 +0000 2018,A sleepless night and pressure from all sides: Inside the 24 hours that led Senator Jeff Flake to call to investiga… https://t.co/HzGlZScKGU
+26,0.0,0.0,1.0,0.0,The New York Times,Sat Sep 29 01:32:04 +0000 2018,Anita Hill had several messages for Christine Blasey Ford: “Be authentic and do what feels right to you” https://t.co/gIYTDWE6VQ
+27,0.4939,0.0,0.849,0.151,The New York Times,Sat Sep 29 01:17:02 +0000 2018,"RT @nytopinion: Senate Republicans might note, with a little humility, that subsequent reporting has pretty much confirmed that Anita Hill…"
+28,0.0,0.0,1.0,0.0,The New York Times,Sat Sep 29 01:02:06 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/TbxHJzojC5
+29,0.3182,0.0,0.901,0.099,The New York Times,Sat Sep 29 00:47:04 +0000 2018,Cher's album of Abba covers is finally here. She told us she actually wasn’t a big fan of Abba in the ’70s. https://t.co/zbSmPZ80Wd
+30,0.0,0.0,1.0,0.0,The New York Times,Sat Sep 29 00:41:00 +0000 2018,Get our On Politics newsletter delivered to your inbox. Sign up here: https://t.co/rcoPNR5UI7
+31,0.0,0.0,1.0,0.0,The New York Times,Sat Sep 29 00:32:04 +0000 2018,"Nearly 1,600 readers wrote to express their opinion about the Kavanaugh hearing. We got notes from as far as Austra… https://t.co/8Qlyfo8j7q"
+32,0.1952,0.109,0.753,0.138,The New York Times,Sat Sep 29 00:17:07 +0000 2018,"RT @ByJamesWagner: The Mets have done a lot more losing than winning in their history. Yet somehow, and despite the time differences, they…"
+33,0.34,0.0,0.876,0.124,The New York Times,Sat Sep 29 00:02:07 +0000 2018,"In a unanimous vote, Canadian lawmakers move to strip Daw Aung San Suu Kyi of her honorary citizenship https://t.co/Cyq2QnGkZs"
+34,0.3612,0.0,0.898,0.102,The New York Times,Fri Sep 28 23:47:07 +0000 2018,"""The Simpsons"" starts its 30th season this weekend. We took a look at how the series and its place in TV comedy hav… https://t.co/jJkV6EpoSR"
+35,-0.8555,0.37,0.63,0.0,The New York Times,Fri Sep 28 23:32:05 +0000 2018,Scraps of a former NFL lineman’s diary found after his death offer a painful glimpse of a football player losing hi… https://t.co/0esK6SNmHS
+36,-0.5423,0.191,0.809,0.0,The New York Times,Fri Sep 28 23:17:05 +0000 2018,"RT @dagnysalas: Your one stop for @nytimes links on Brett Kavanaugh, Christine Blasey Ford, the other accusations, the fallout, what's next…"
+37,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 23:02:06 +0000 2018,Evening Briefing: Here's what you need to know at the end of the day https://t.co/MuyyIkGSdj
+38,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 22:47:05 +0000 2018,"RT @MikeIsaac: one last nugget, which will go in our final story once updated later today: 
+
+Mark Zuckerberg and Sheryl Sandberg's Facebook…"
+39,0.2584,0.0,0.903,0.097,The New York Times,Fri Sep 28 22:32:02 +0000 2018,"The DeSantis campaign did not deny being behind the text messages, which appeared to target voters with Jewish last… https://t.co/6tKxB1FMfG"
+40,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 22:17:05 +0000 2018,"Mark Judge, who has been named by 2 women as being a key witness to sexual misconduct by Brett Kavanaugh, said that… https://t.co/bhVh7UQoaN"
+41,-0.8591,0.373,0.627,0.0,The New York Times,Fri Sep 28 22:02:06 +0000 2018,Facebook said that attackers exploited a weakness that enabled them to hijack the accounts of nearly 50 million use… https://t.co/5EKNmz6KWF
+42,0.25,0.0,0.889,0.111,The New York Times,Fri Sep 28 21:47:04 +0000 2018,"RT @nytimesphoto: In 1958, nearly 60 jazz giants gathered in Harlem for one immortal snapshot https://t.co/qEppdMiFQe https://t.co/oJAYtSTG…"
+43,-0.9042,0.449,0.551,0.0,The New York Times,Fri Sep 28 21:32:03 +0000 2018,Prosecutors will seek the death penalty for the suspect in the 2017 Manhattan truck attack. President Trump’s tweet… https://t.co/h4gUKa4Mpw
+44,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 21:30:46 +0000 2018,"A recent flash point in the New York governor's race is not the economy, the city's subways or the $160 billion sta… https://t.co/yaGgy9Vn7u"
+45,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 21:10:05 +0000 2018,Scientists had long assumed that few creatures dined on jellyfish. But new research suggests that jellyfish may be… https://t.co/CoalBIE4n9
+46,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 20:55:04 +0000 2018,"Lady Gaga and Bradley Cooper are in the sha-ha-sha-hallow, and Lil Wayne's long-delayed album is here. Here's the w… https://t.co/4usb2gRX2a"
+47,0.7555,0.082,0.613,0.305,The New York Times,Fri Sep 28 20:45:08 +0000 2018,RT @mikiebarb: A remarkable exchange between a reluctant Bradley Cooper and a pleading @taffyakner that I'm so glad she transcribed. https:…
+48,0.5267,0.0,0.595,0.405,The New York Times,Fri Sep 28 20:30:11 +0000 2018,"Today, be kind to yourself
+https://t.co/nAtGWZ3hnU"
+49,-0.3182,0.113,0.887,0.0,The New York Times,Fri Sep 28 20:14:21 +0000 2018,Breaking News: Republicans will delay the final Senate vote on Judge Brett Kavanaugh's confirmation by up to a week… https://t.co/cf7hpL9fpL
+50,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 20:00:10 +0000 2018,Skilled nursing facilities are seeing drops in occupancy rates. According to the National Investment Center for Sen… https://t.co/Z8soUrob6z
+51,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 19:45:04 +0000 2018,"The wild, ragged days of Governors Island are over, and development is coming https://t.co/ssb7v2wb9q"
+52,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 19:35:07 +0000 2018,"RT @MikeIsaac: y'all should have started noticing something early this morning, as facebook started forcing the logouts of millions of user…"
+53,0.4939,0.0,0.811,0.189,The New York Times,Fri Sep 28 19:25:03 +0000 2018,The United States and Mexico are expected to release text of a bipartisan trade deal that the 2 countries reached l… https://t.co/lO59yhhFzk
+54,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 19:10:07 +0000 2018,"RT @nytopinion: The Senate Judiciary Committee voted to advance Kavanaugh. There may be a one-week F.B.I. investigation, but that’s still u…"
+55,0.0964,0.0,0.929,0.071,The New York Times,Fri Sep 28 18:55:31 +0000 2018,"In 2017, Senator Jeff Flake announced he would not seek re-election. He issued this challenge in his announcement:… https://t.co/v8KC3bs9eF"
+56,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 18:40:57 +0000 2018,Breaking News: President Trump said he found Christine Blasey Ford’s testimony “very compelling” and that senators… https://t.co/t2ntl73Cpr
+57,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 18:11:30 +0000 2018,"RT @juliehdavis: ""Somebody's gotta explain this to Trump, so I guess that'll be my job,"" Sen Graham says sardonically on his way out of Jud…"
+58,-0.2263,0.101,0.899,0.0,The New York Times,Fri Sep 28 18:09:56 +0000 2018,"Breaking News: Senator Jeff Flake, a crucial swing vote on Brett Kavanaugh, demanded an FBI inquiry before a final… https://t.co/f72iGu0psN"
+59,0.4939,0.0,0.862,0.138,The New York Times,Fri Sep 28 18:06:48 +0000 2018,"RT @juliehdavis: ""This is all a gentlemen's &amp; gentleladies' agreement"" Grassley says, making key point re what just happened. After much sp…"
+60,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 18:00:08 +0000 2018,"In a dramatic reversal, Senator Jeff Flake said he would vote to advance Judge Brett Kavanaugh in the committee, bu… https://t.co/pdLailYJ72"
+61,-0.2263,0.073,0.927,0.0,The New York Times,Fri Sep 28 17:55:01 +0000 2018,"RT @SherylNYT: Flake is now asking for a one-week FBI investigation ""limited in time and scope.:""   “I think we ought to do what we can to…"
+62,-0.5994,0.234,0.766,0.0,The New York Times,Fri Sep 28 17:45:09 +0000 2018,A London coroner said that Pret A Manger has inadequate allergy labeling after a 15-year-old girl had an allergic r… https://t.co/kw7rzanddO
+63,-0.2023,0.091,0.909,0.0,The New York Times,Fri Sep 28 17:35:18 +0000 2018,"RT @AsteadWesley: NEW: I spoke to the women who confronted Jeff Flake in that Capitol Hill elevator. w/ @NirajC 
+https://t.co/93UZZbhtmp"
+64,-0.3612,0.163,0.837,0.0,The New York Times,Fri Sep 28 17:32:11 +0000 2018,RT @kevinroose: Facebook’s @guyro says that the breach that affected 50 million users involved a vulnerability in a tool that allowed users…
+65,-0.34,0.134,0.784,0.082,The New York Times,Fri Sep 28 17:30:09 +0000 2018,"If the SEC gets its way, Elon Musk will join Elizabeth Holmes, Ken Lay and Martha Stewart in facing a ban from serv… https://t.co/j5hkmnDnT0"
+66,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 17:15:06 +0000 2018,Scientists reported the first discovery of all-female termite societies — researchers did not find a single male https://t.co/HPrx7zQGXj
+67,-0.8074,0.316,0.684,0.0,The New York Times,Fri Sep 28 17:00:16 +0000 2018,RT @MichaelPaulson: A bitter battle between theaters in San Francisco: Nederlander is trying to block plans by a onetime partner -- now a r…
+68,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 16:51:56 +0000 2018,"RT @MikeIsaac: BREAKING: Facebook hack results in the exposure of data on up to 50 million user accounts
+
+https://t.co/zobH3fr8SP"
+69,-0.5267,0.206,0.794,0.0,The New York Times,Fri Sep 28 16:48:21 +0000 2018,Breaking News: Facebook said an attack on its computer network exposed the personal information of about 50 million… https://t.co/bJF8GRCm1g
+70,-0.5267,0.185,0.815,0.0,The New York Times,Fri Sep 28 16:45:08 +0000 2018,A journalist that spread conspiracy theories — including the claim that Hillary Clinton attended a satanic dinner a… https://t.co/JH35oPS40r
+71,0.3818,0.0,0.874,0.126,The New York Times,Fri Sep 28 16:30:10 +0000 2018,"China has long made it clear that reporting on politics, civil society and sensitive historical events is forbidden… https://t.co/hZEEZMDf6U"
+72,-0.5574,0.159,0.841,0.0,The New York Times,Fri Sep 28 16:15:02 +0000 2018,"RT @nytimesworld: ""My only sin is the extrajudicial killings."" A striking admission by the Philippine president that could bolster cases ag…"
+73,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 16:00:04 +0000 2018,"3 years before the Las Vegas massacre, a different man was caught with a stash of guns at the same hotel where the… https://t.co/MCmBf0K0Up"
+74,-0.3182,0.113,0.887,0.0,The New York Times,Fri Sep 28 15:45:08 +0000 2018,"In Opinion
+
+New York Times Magazine writer @emilybazelon writes, ""It is impossible to justify the lack of a neutral… https://t.co/uTyKqvau9K"
+75,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 15:30:15 +0000 2018,RT @stanfordc: Tiger is back. So is the news quiz. https://t.co/2XBym1QKtH https://t.co/wmsclgCAJx
+76,0.0507,0.068,0.855,0.077,The New York Times,Fri Sep 28 15:15:53 +0000 2018,"RT @juliamoskin: Where did chicken francese come from? No one's quite sure, but it involves Liberace; Rochester, N.Y.;  the 1970s veal boyc…"
+77,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 15:00:08 +0000 2018,A woman now runs a plant where Ford makes F-150 trucks. But women remain underrepresented across manufacturing indu… https://t.co/iGiWYKnIW1
+78,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 14:45:07 +0000 2018,"RT @nytopinion: The committee has scheduled a vote on Kavanaugh’s nomination today. But many, including The Editorial Board, remain unsatis…"
+79,-0.8074,0.372,0.628,0.0,The New York Times,Fri Sep 28 14:34:31 +0000 2018,Tensions over Brett Kavanaugh continued: A senator was confronted on camera by sexual assault survivors and Democra… https://t.co/n4tEXapD6s
+80,-0.9042,0.337,0.663,0.0,The New York Times,Fri Sep 28 14:30:10 +0000 2018,"RT @NYTHealth: “If you are too upset, you are crazy. If you are not upset enough, people don’t believe you were raped. So you have to be ju…"
+81,-0.2732,0.162,0.723,0.115,The New York Times,Fri Sep 28 14:18:27 +0000 2018,"""You are telling me that my assault doesn’t matter."" 
+After announcing that he would support Judge Brett Kavanaugh,… https://t.co/WFUtvg0wTI"
+82,-0.0516,0.054,0.946,0.0,The New York Times,Fri Sep 28 14:14:05 +0000 2018,"A man in Hong Kong has been found to have a strain of hepatitis E that had only been seen previously in rats, resea… https://t.co/4FFpQOv50U"
+83,0.34,0.0,0.821,0.179,The New York Times,Fri Sep 28 13:57:05 +0000 2018,Late-night hosts shared their views on the Kavanaugh hearing. Here's a roundup. https://t.co/WprRcD8snq
+84,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 13:48:21 +0000 2018,"Breaking News: Senator Jeff Flake, the key swing Republican on the Judiciary Committee, will vote to confirm Brett… https://t.co/yKMQp3wiYB"
+85,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 13:40:07 +0000 2018,Senators meet to decide Brett Kavanaugh's fate https://t.co/O6a7jz7NY5 https://t.co/1N3XOjlX3S
+86,0.5423,0.0,0.8,0.2,The New York Times,Fri Sep 28 13:30:11 +0000 2018,A tour of farms and factories gave Xi Jinping a chance to look like Mao and take aim at President Trump… https://t.co/wy5rEa1q6P
+87,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 13:15:07 +0000 2018,Writers from across the political spectrum react to the Kavanaugh-Blasey hearing https://t.co/z3RORKzqEY
+88,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 13:00:03 +0000 2018,Morning Briefing: Here's what you need to know to start your day https://t.co/FEvLHQvMXF https://t.co/MvvmnPduIF
+89,0.1027,0.117,0.708,0.175,The New York Times,Fri Sep 28 12:50:05 +0000 2018,"Turning to the Democrats to his left, Lindsey Graham fumed: ""You want this seat. I hope you never get it."" https://t.co/RCAbPDjtP8"
+90,-0.4588,0.136,0.864,0.0,The New York Times,Fri Sep 28 12:41:05 +0000 2018,One of the doctors hired to screen immigrants had sexually exploited female patients. Another once tried to have a… https://t.co/LTTUa6PhSl
+91,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 12:30:10 +0000 2018,"""Because he told me I would get in trouble.""
+
+""Because I thought that's just what happens when you drink too much.""… https://t.co/zsBatNnO4G"
+92,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 12:15:06 +0000 2018,"A GoFundMe campaign set up on behalf of Christine Blasey Ford drew more than $200,000 in donations in the hours imm… https://t.co/qb9ClXblJ4"
+93,-0.3612,0.122,0.878,0.0,The New York Times,Fri Sep 28 12:02:07 +0000 2018,"Your daily @DealBook Briefing:
+
+• Elon Musk is fighting for his corporate life. 
+
+• The long road to corporate gend… https://t.co/nFW75eVrQc"
+94,-0.5413,0.163,0.837,0.0,The New York Times,Fri Sep 28 11:45:07 +0000 2018,"In Opinion
+
+The Editorial Board writes: ""Perhaps the most maddening part of Thursday's hearing was the cowardice of… https://t.co/SSxWW4BRMl"
+95,-0.5209,0.239,0.65,0.111,The New York Times,Fri Sep 28 11:30:03 +0000 2018,Supporters of France's law against verbal sexual harassment say that if it emboldens more women to complain and the… https://t.co/IO9aJt1amQ
+96,-0.9118,0.441,0.559,0.0,The New York Times,Fri Sep 28 11:15:08 +0000 2018,"She gave a raw, reluctant account of sexual assault. He gave an angry, outraged denial. And once again, the United… https://t.co/G7SdYC4txO"
+97,-0.3182,0.223,0.777,0.0,The New York Times,Fri Sep 28 11:00:06 +0000 2018,"""It came down to she said, he screamed"" https://t.co/MouDnWSsyH"
+98,0.0,0.0,1.0,0.0,The New York Times,Fri Sep 28 10:46:01 +0000 2018,"The American Bar Association urged that senators vote on Judge Kavanaugh's nomination ""only after an appropriate ba… https://t.co/SagdIwA69S"
+99,-0.5267,0.152,0.848,0.0,The New York Times,Fri Sep 28 10:30:04 +0000 2018,"RT @jasondhorowitz: The new head of Italy's state TV spread the conspiracy that Hillary Clinton attended a satanic dinner, introduced Banno…"
